@@ -103,23 +103,6 @@ body {
     width:60%;
     text-align:right;
 }
-.clearfix:after {
-    display: block;
-    visibility: hidden;
-    clear: both;
-    height: 0;
-    content:".";
-    line-height: 0;
-}
-.clearfix {
-    display: inline-block;
-}
-html[xmlns] .clearfix {
-    display: block;
-}
-* html .clearfix {
-    height: 1%;
-}
 #foto-techniek-en-wetenschap {
     position:relative;
     z-index:-50000;
