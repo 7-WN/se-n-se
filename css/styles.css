@@ -139,3 +139,6 @@ body {
     height:auto;
     background:url('../images/kunst.jpg')50% 0 fixed;
 }
+.container {
+    width: 100% !important;
+}
