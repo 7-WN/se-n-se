@@ -1,0 +1,18 @@
+{
+  "name": "se-n-se",
+  "version": "0.0.0",
+  "homepage": "http://www.commercieelwebverkeer.be/",
+  "authors": [
+    "7CW - Scheppersinstituut Antwerpen"
+  ],
+  "description": "The source code for the http://www.se-n-se.eu website",
+  "main": "index.html",
+  "license": "-",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
