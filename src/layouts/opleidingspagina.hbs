@@ -9,13 +9,17 @@
                 <h1>{{title}}</h1>
             </div>
         </header>
-        {{> opleiding}}
+	{{#markdown}}
+
+	    {{> body }}
+
+	{{/markdown}}
         <footer>
-            <div class="voetstuk">
+	    {{!-- <div class="voetstuk">
                 {{#each}}
                     {{> school}}
                 {{/each}}
-            </div>
+	    </div> --}}
         </footer>
     </body>
 </html>

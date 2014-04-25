@@ -17,7 +17,7 @@ module.exports = function(grunt) {
 	    }
 	},
 	assemble: {
-	    site: {
+	    index: {
 		// options: {
 		//     layout: "src/layouts/page.hbs",
 		//     partials: "src/partials/**/*.hbs"
@@ -26,6 +26,15 @@ module.exports = function(grunt) {
 		// cwd: "src/",
 		// src: "*.hbs",
 		// dest: "build/"
+	    },
+	    opleidingen: {
+		options: {
+			layout: "src/layouts/opleidingspagina.hbs"
+		},
+		expand: true,
+		cwd: "src/",
+		src: "**/*.md",
+		dest: "build/"
 	    }
 	},
 	watch: {

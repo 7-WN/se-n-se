@@ -1,10 +1,12 @@
-# Administratie vrije beroepen
+---
+title: Administratie Vrije Beroepen
+---
 
 _Of je nu advocaat, notaris, gerechtsdeurwaarder of verzekeringsagent bent, zonder goed administratief personeel sta je nergens. Enkel met een vlotte organisatie en een vlekkeloze administratie kan je je kantoor draaiende houden. De rol die een administratief bediende daarin speelt, kan je maar beter niet onderschatten._
 
 ## Iets voor jou?
 
-Voel jij je aangesproken, dan heb je beslist insteresse voor:
+Voel jij je aangesproken, dan heb je beslist interesse voor:
 
 * De juridische sector
 * Het verzekeringswezen
