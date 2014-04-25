@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{title}}</title>
+    </head>
+    <body>
+        <header>
+            <div class="hoofding">
+                <h1>{{title}}</h1>
+            </div>
+        </header>
+        {{> opleiding}}
+        <footer>
+            <div class="voetstuk">
+                {{#each}}
+                    {{> school}}
+                {{/each}}
+            </div>
+        </footer>
+    </body>
+</html>
