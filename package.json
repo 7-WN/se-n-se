@@ -1,0 +1,27 @@
+{
+  "name": "se-n-se",
+  "version": "0.0.0",
+  "description": "Source code for the http://www.se-n-se.eu/ website.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/comweb/se-n-se.git"
+  },
+  "author": "7CW - Scheppersinstituut Antwerpen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comweb/se-n-se/issues"
+  },
+  "homepage": "https://github.com/comweb/se-n-se",
+  "devDependencies": {
+    "assemble": "^0.4.37",
+    "grunt": "^0.4.4",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-shell": "^0.7.0"
+  }
+}
