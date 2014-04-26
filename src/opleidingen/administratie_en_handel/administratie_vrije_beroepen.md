@@ -1,8 +1,9 @@
 ---
 title: Administratie Vrije Beroepen
+tags: ["administratie-en-handel"]
+url: "opleidingen/administratie_en_handel/administratie_vrije_beroepen.html"
+summary: "Of je nu advocaat, notaris, gerechtsdeurwaarder of verzekeringsagent bent, zonder goed administratief personeel sta je nergens. Enkel met een vlotte organisatie en een vlekkeloze administratie kan je je kantoor draaiende houden. De rol die een administratief bediende daarin speelt, kan je maar beter niet onderschatten."
 ---
-
-_Of je nu advocaat, notaris, gerechtsdeurwaarder of verzekeringsagent bent, zonder goed administratief personeel sta je nergens. Enkel met een vlotte organisatie en een vlekkeloze administratie kan je je kantoor draaiende houden. De rol die een administratief bediende daarin speelt, kan je maar beter niet onderschatten._
 
 ## Iets voor jou?
 
