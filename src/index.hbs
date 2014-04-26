@@ -5,12 +5,10 @@ layout: false
 <html lang="nl-be">
 <head>
     <meta charset="utf-8">
-    <title>
-	Se-n-Se
-    </title>
     <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <title>Se-n-Se: Secundair na Secundair - 1-jarige opleidingen in de provincie Antwerpen</title>
 </head>
 <body>
     {{> navigation}}
@@ -23,17 +21,18 @@ layout: false
     {{> administratie_en_handel}}
     <section id="foto-kunst"></section>
     {{> kunst}}
-    <div id="footer">
-	Designed by: Commercieel webverkeer en netwerkbeheer. © 2014
-    </div>
+    <footer>
+	   <p>Designed by: <a href="http://www.commercieelwebverkeer.be">Commercieel webverkeer en netwerkbeheer.</a> © 2014<br />
+       <a href="mailto:l.derichter@scheppersinstituut.be?subject=feedback over se-n-se.eu">Contacteer Webmaster</a></p>
+    </footer>
     <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
     <script>
-    $('a').click(function() {
-	$('html, body').animate({
-	    scrollTop: $($.attr(this, 'href')).offset().top
-	}, 2000);
-	return false;
-    });
+        $('a').click(function() {
+    	$('html, body').animate({
+    	    scrollTop: $($.attr(this, 'href')).offset().top
+    	}, 2000);
+    	return false;
+        });
     </script>
 </body>
 </html>
