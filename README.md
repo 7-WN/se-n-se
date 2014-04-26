@@ -24,6 +24,36 @@ If you want to do some work on the website, you **MUST read all this documentati
 	* On Linux or OSX: `bin/init`
 	* On Windows: `bin/init.bat`
 
+## Technologies and tools ##
+
+### Grunt ###
+
+Our build system makes extensive use of [grunt](http://gruntjs.com/), the javascript task runner. Grunt helps us build a complete website that we can publish from our source files. We have defined a number of tasks. Run these commands from your shell in the top folder of this project.
+
+* **build:** Build the website in our _build_ directory (this is the default task). `grunt build` or `grunt`
+* **update:** Update the necessary packages. You must run this task every time that _package.json_ or _bower.json_ are changed. `grunt update`
+* **watch:** Leave this task running to automatically update the build whenever a source file is saved. If you have [the LiveReload extensions](http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-) installed and activated for your browser, your browser will automatically refresh every time a file is updated as well (no more F5 or cmd+R). To make sure that you have all files in your _build_ folder, always run `grunt build` before running `grunt watch`
+
+### Handlebars ###
+
+The templates we use are created with [handlebars](http://handlebarsjs.com/). Handlebars files are normal HTML with some special functions put between {{ }}.
+
+### Markdown ###
+
+[Markdown](https://daringfireball.net/projects/markdown/) is an easy-to-read, easy-to-write plain text format that is easily converted to HTML. Use this [handy cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for the syntax.
+
+### YAML front matter ###
+
+[YAML](http://www.yaml.org/) is a human friendly data serialization standard. Read [this short introduction.](http://statamic.com/learn/configuring/using-yaml)
+
+Our markdown and handlebars files can have variables or properties at the front. They are defined in the YAML format. They should be put between \--- before any other conten. Like this:
+
+```
+---
+YAML
+---
+```
+
 ## Folder structure ##
 
 * **bin:** contains initialisation scripts that will set you up to work on the source code.
@@ -57,15 +87,15 @@ The _domeinen_ partials aggregate the _opleidingen_ that match it. Each _domein_
 
 ### src/opleidingen/**/*.md ###
 
-The contents for the _opleidingen_ pages. These are formatted as markdown with [YAML Front Matter](http://assemble.io/docs/YAML-front-matter.html). The front matter must contain the following properties:
+The contents for the _opleidingen_ pages. These are formatted as markdown with YAML Front Matter. The front matter must contain the following properties:
 
+* **url:** this is a bit of a hack, but this property must contain the url of the resulting html page: "opleidingen/\<domein>/\<filename>.html". **STRING**
 * **title:** the title of the page or the name of the _opleiding._ **STRING**
 * **tags** an array that contains at least one string with the hyphenated name of the _domein._ **ARRAY of STRINGS**
-* **url:** this is a bit of a hack, but this property must contain the url of the resulting html page: "opleidingen/\<domein>/\<filename>.html". **STRING**
 * **scholen:** an array that contains a list of strings with the names of the _scholen_ that have the _opleiding._ The strings should match the base filenames of the partials in _partials/scholen:_ underscored and without file extension. **ARRAY of STRINGS**
 * **summary:** the first part of the text. It must be a little bit like a teaser. This is the text that is used on the homepage and also the first part of the text that is used on the page for the _opleiding_ itself. **STRING**
 
-The content is in [markdown.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) The title and the first paragraph should not be part of the markdown. They are already included in the YAML front matter.
+The content is in markdown. The title and the first paragraph should not be part of the markdown. They are already included in the YAML front matter.
 
 The first heading level should be h2. h1 is reserved for the page title.
 
@@ -76,15 +106,3 @@ These files contain the addresses of the _scholen_ and the dates and times of th
 ### layouts/opleidingspagina.hbs ###
 
 This is the layout for the opleidingspagina's. It uses the content and properties specified in the _src/opleidingen/\**/\*.md_ files.
-
-## Grunt ##
-
-Our build system makes extensive use of [grunt](http://gruntjs.com/), the javascript task runner. Grunt helps us build a complete website that we can publish from our source files. We have defined a number of tasks. Run these commands from your shell in the top folder of this project.
-
-* **build:** Build the website in our _build_ directory (this is the default task). `grunt build` or `grunt`
-* **update:** Update the necessary packages. You must run this task every time that _package.json_ or _bower.json_ are changed. `grunt update`
-* **watch:** Leave this task running to automatically update the build whenever a source file is saved. If you have [the LiveReload extensions](http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-) installed and activated for your browser, your browser will automatically refresh every time a file is updated as well (no more F5 or cmd+R). To make sure that you have all files in your _build_ folder, always run `grunt build` before running `grunt watch`
-
-## Handlebars ##
-
-The templates we use are created with [handlebars](http://handlebarsjs.com/). Handlebars files are normal HTML with some special functions put between {{ }}.
