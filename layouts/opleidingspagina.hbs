@@ -1,23 +1,25 @@
 <!doctype html>
 <html>
-    <head>
+<head>
 	<meta charset="utf-8">
-	<title>{{title}}</title>
-    </head>
-    <body>
+	<title>{{title}} - 1-jarige se-n-se opleiding studeren in de provincie Antwerpen</title>
+</head>
+<body>
 	<header>
-	    <div class="hoofding">
 		<h1>{{title}}</h1>
-	    </div>
 	</header>
-	<p><em>{{summary}}</em></p>
-	{{#markdown}}
-	    {{> body }}
-	{{/markdown}}
-	<footer>
-		{{#each scholen}}
-		    	{{include this}}
-		{{/each}}
-	</footer>
-    </body>
+	<main>
+		<p><em>{{summary}}</em></p>
+		{{#markdown}}
+			{{> body }}
+		{{/markdown}}
+	</main>
+	<section class="scholen">
+		<article class="school">
+			{{#each scholen}}
+				{{include this}}
+			{{/each}}
+		</article>
+	</section>
+</body>
 </html>
