@@ -1,8 +1,14 @@
-<section id="techniek-en-wetenschap" data-speed="12" data-type="background" class="domein container">
+<section id="techniek-en-wetenschap" class="domein">
     <h2 class="titel">
-	TECHNIEK EN WETENSCHAP
+	Techniek en Wetenschap
     </h2>
-    {{#each}}
-	{{> opleiding}}
+    {{#each tags}}
+	{{#is tag "techniek-en-wetenschap"}}
+		{{#each pages}}
+			<h3>{{data.title}}</h3>
+			<p>{{data.summary}}</p>
+			<p><a href="{{data.url}}">Meer over {{data.title}}</a></p>
+		{{/each}}
+	{{/is}}
     {{/each}}
 </section>
