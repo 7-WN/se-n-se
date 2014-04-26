@@ -1,0 +1,14 @@
+<section id="gezondheid-en-maatschappij" class="domein">
+    <h2>Gezondheid en Maatschappij</h2>
+    {{#each tags}}
+		{{#is tag "gezondheid-en-maatschappij"}}
+			{{#each pages}}
+				<article class="opleiding">
+					<h3><a href="{{data.url}}" title="secundair na secundair: {{data.title}} leren in de provincie Antwerpen">{{data.title}}</a></h3>
+					<p>{{data.summary}}</p>
+					<p><a href="{{data.url}}" title="De sense opleiding: {{data.title}} studeren in de provincie Antwerpen">Meer over {{data.title}}</a></p>
+				</article>
+			{{/each}}
+		{{/is}}
+    {{/each}}
+</section>
