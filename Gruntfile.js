@@ -1,60 +1,50 @@
 module.exports = function(grunt) {
     grunt.initConfig({
-	shell: {
-	    updatePackages: {
-		command: "npm install && bower install"
-	    }
-	},
-	clean: {
-	    build: ["build"]
-	},
-	copy: {
-	    assets: {
-		expand: true,
-		cwd: "src/",
-		src: "public/**/*",
-		dest: "build/"
-	    }
-	},
-	assemble: {
-	    index: {
-		// options: {
-		//     layout: "src/layouts/page.hbs",
-		//     partials: "src/partials/**/*.hbs"
-		// },
-		// expand: true,
-		// cwd: "src/",
-		// src: "*.hbs",
-		// dest: "build/"
-	    },
-	    opleidingen: {
-		options: {
-			layout: "layouts/opleidingspagina.hbs",
-			partials: ["partials/**/*.hbs", "partials/**/*.md"],
-			helpers: ["handlebars-helper-include"]
-		},
-		expand: true,
-		cwd: "src/",
-		src: ["**/*.md", "**/*.hbs"],
-		dest: "build/"
-	    }
-	},
-	watch: {
-	    assets: {
-		options: {
-		    livereload: true
-		},
-		files: ["src/public/**/*"],
-		tasks: ["copy:assets"]
-	    },
-	    hbs: {
-		options: {
-		    livereload: true
-		},
-		files: ["src/**/*.hbs"],
-		tasks: ["assemble"]
-	    }
-	}
+        shell: {
+            updatePackages: {
+                command: "npm install && bower install"
+            }
+        },
+        clean: {
+            build: ["build"]
+        },
+        copy: {
+            assets: {
+                expand: true,
+                cwd: "src/",
+                src: "public/**/*",
+                dest: "build/"
+            }
+        },
+        assemble: {
+            pages: {
+                options: {
+                    layout: "layouts/opleidingspagina.hbs",
+                    partials: ["partials/**/*.hbs", "partials/**/*.md"],
+                    helpers: ["handlebars-helper-include"]
+                },
+                expand: true,
+                cwd: "src/",
+                src: ["**/*.md", "**/*.hbs"],
+                dest: "build/"
+            }
+        },
+        watch: {
+            assets: {
+                options: {
+                    livereload: true
+                },
+                files: ["src/public/**/*"],
+                tasks: ["copy:assets"]
+            },
+            pages: {
+                options: {
+                    livereload: true
+                },
+                files: ["**/*.md", "**/*.hbs"],
+                tasks: ["assemble"]
+            }
+        }
     });
 
     grunt.loadNpmTasks('grunt-shell');
