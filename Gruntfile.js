@@ -30,7 +30,8 @@ module.exports = function(grunt) {
 	    opleidingen: {
 		options: {
 			layout: "layouts/opleidingspagina.hbs",
-			partials: ["partials/**/*.hbs", "partials/**/*.md"]
+			partials: ["partials/**/*.hbs", "partials/**/*.md"],
+			helpers: ["handlebars-helper-include"]
 		},
 		expand: true,
 		cwd: "src/",
