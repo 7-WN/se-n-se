@@ -29,11 +29,12 @@ module.exports = function(grunt) {
 	    },
 	    opleidingen: {
 		options: {
-			layout: "src/layouts/opleidingspagina.hbs"
+			layout: "layouts/opleidingspagina.hbs",
+			partials: ["partials/**/*.hbs", "partials/**/*.md"]
 		},
 		expand: true,
 		cwd: "src/",
-		src: "**/*.md",
+		src: ["**/*.md", "**/*.hbs"],
 		dest: "build/"
 	    }
 	},
