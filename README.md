@@ -24,6 +24,24 @@ If you want to do some work on the website, you **MUST read all this documentati
 	* On Linux or OSX: `bin/init`
 	* On Windows: `bin/init.bat`
 
+## Foundations ##
+
+Our HTML and CSS uses the following conventions and tools.
+
+### HTML5 ###
+
+We use valid, semantic HTML5. For a list of tags and their uses, consult the [MDN HTML5 element list](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5/HTML5_element_list)
+
+### CSS 3 ###
+
+We use valid CSS3. Check the [MDN CSS reference.](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+For the organisation of our CSS we follow the [SMACSS principles.](http://smacss.com/) Make sure to read the [Categorizing CSS Rules](http://smacss.com/book/categorizing) chapter.
+
+### Frameworks and libraries ###
+
+To make our lives a little bit easier we use [Bootstrap](http://getbootstrap.com/) and [jQuery.](http://jquery.com/)
+
 ## Technologies and tools ##
 
 ### Grunt ###
