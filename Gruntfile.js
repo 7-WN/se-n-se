@@ -14,7 +14,7 @@ module.exports = function(grunt) {
             // copies all files from public to build/public, used for static files
             assets: {
                 expand: true,
-                cwd: "src/",
+                
                 src: "public/**/*",
                 dest: "build/"
             }
@@ -40,7 +40,7 @@ module.exports = function(grunt) {
                 options: {
                     livereload: true
                 },
-                files: ["src/public/**/*"],
+                files: ["public/**/*"],
                 tasks: ["copy:assets"]
             },
             // rebuild pages when source files, includes or layouts are changed
