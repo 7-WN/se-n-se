@@ -42,6 +42,13 @@ For the organisation of our CSS we follow the [SMACSS principles.](http://smacss
 
 To make our lives a little bit easier we use [Bootstrap](http://getbootstrap.com/) and [jQuery.](http://jquery.com/)
 
+## Naming conventions ##
+
+* No special characters or accents in names.
+* Folders and file names use underscores: \_.
+* Class names, tags etc. use hyphens -.
+* Javascript variables use camelCase.
+
 ## Technologies and tools ##
 
 ### Grunt ###
