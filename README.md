@@ -91,7 +91,7 @@ YAML
 
 ### src/index.hbs ###
 
-This is the main source file for the index.html homepage of the website. It includes a number of partials to keep the file down to a convenient size: _navigation_ and _welkom_.
+This is the main source file for the index.html homepage of the website. It includes a number of partials to keep the file down to a convenient size: _navigation, welkom_ and _se-n-se._
 
 Every _domein_ also has its own partial: administratie_en_handel.hbs, gezondheid_en_maatschappij.hbs, kunst.hbs and techniek_en_wetenschap.hbs.
 
