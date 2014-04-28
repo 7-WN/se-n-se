@@ -2,10 +2,9 @@
 url: opleidingen/administratie_en_handel/toerisme_en_organisatie.html
 title: Toerisme en organisatie
 tags:
-	- toerisme en organisatie
+	- administratie-en-handel
 scholen:
-	- secundaire handelsschool Sint-Lodewijk A'PEN
-
+	- sint_lodewijk_antwerpen
 summary: Je droomt van een job in de toeristische sector maar ziet het eigenlijk niet zitten om voortdurend te reizen of in het buitenland te verblijven. Is dat wel realistisch? Natuurlijk. Als je slaagt voor de opleiding Toerisme en organisatie, dan kan je aan de slag als travel consultant, ticketing en reservation officer of check-in en boarding agent en bezorg jij de klanten een aangename reis.
 ---
 

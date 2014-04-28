@@ -1,10 +1,10 @@
 ---
-url: opleidingen/administratie_en_handel/medico-sociale administratie.html
+url: opleidingen/administratie_en_handel/medico-sociale_administratie.html
 title: Medico-sociale administratie
 tags:
-	- medico-sociale administratie
-school:
-	- Scheppersinstituut Antwerpen
+	- administratie-en-handel
+scholen:
+	- scheppersinstituut_antwerpen
 summary: De diensten- en verzorgingssector neemt in onze maatschappij een steeds belangrijkere plaats in. Heel wat rusthuizen, revalidatiecentra, ziekenhuizen en psychiatrische instellingen zijn op zoek naar geëngageerde medewerkers voor de administratie en het onthaal.
 ---
 

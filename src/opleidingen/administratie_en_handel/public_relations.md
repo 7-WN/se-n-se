@@ -2,11 +2,10 @@
 url: opleidingen/administratie_en_handel/public_relations.html
 title: Public relations
 tags:
-	-public relations
+	- administratie-en-handel
 scholen:
-	- secundaire handelsschool Sint-Lodewijk A'Pen
-	-Sint-Ursula-Instituut Lier
-
+    - sint_lodewijk_antwerpen
+    - sint_ursula_lier
 summary: Bedrijven en organisaties vinden het belangrijk om goede relaties te onderhouden en een positief imago uit te stralen en halen er met plezier geschikte medewerkers voor in huis. Als je dynamisch en creatief bent, op de eerste rij staat als er iets moet georganiseerd worden en je zeker weet dat een kantoorjob van 9 tot 5 niets voor jou is, dan zou je een job in de pr- en evenementensector kunnen overwegen.
 ---
 

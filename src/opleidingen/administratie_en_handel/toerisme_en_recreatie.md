@@ -1,14 +1,12 @@
 ---
-url: url: opleidingen/administratie_en_handel/toerisme_en_recreatie.html
-title: Toerisme en recreatie
+url: opleidingen/administratie_en_handel/toerisme_en_recreatie.html
+title: Toerisme en Recreatie
 tags:
-	- toerisme en recreatie
-scholen
-	- secundaire handelsschool Sint-Lodewijk A'PEN
-summary: Jongeren vinden werken in de toeristische sector vaak zo aanlokkelijk omdat je de kans krijgt om een hele nieuwe wereld te verkennen. Niet alleen verblijf je vaak in het buitenland, je gaat ook om met mensen die een vreemde taal spreken, uit een heel andere regio en cultuur komen.
+    - administratie-en-handel
+scholen:
+    - sint_lodewijk_antwerpen
+summary: "Jongeren vinden werken in de toeristische sector vaak zo aanlokkelijk omdat je de kans krijgt om een hele nieuwe wereld te verkennen. Niet alleen verblijf je vaak in het buitenland, je gaat ook om met mensen die een vreemde taal spreken, uit een heel andere regio en cultuur komen."
 ---
-
-
 ## Iets voor jou?
 
 Voel jij je aangesproken, dan ben je beslist:

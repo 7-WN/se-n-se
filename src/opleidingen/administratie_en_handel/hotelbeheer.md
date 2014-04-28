@@ -1,11 +1,10 @@
 ---
 url: opleidingen/administratie_en_handel/hotelbeheer.html
-html
-title :Hotelbeheer
+title: Hotelbeheer
 tags:
-	- hotelbeheer
+    - administratie-en-handel
 scholen:
- 	- Stella Maris Instituut Merksem
+     - stella_maris_merksem
 summary: Ben je op zoek naar een boeiende functie in een internationale omgeving en hou je ervan om het je gasten naar de zin te maken? Met een opleiding Hotelbeheer kan je het schoppen tot polyvalent hotelmedewerker op afdelingen zoals sales & marketing, public relations, reservations, front officereception,housekeeping, food & beverage management en conference & banqueting.
 ---
 

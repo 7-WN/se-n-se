@@ -2,12 +2,11 @@
 url: opleidingen/administratie_en_handel/tandartsassistentie.html
 title: Tandartsassistentie
 tags:
-	-tandartsassistentie
+	- administratie-en-handel
 scholen:
-	- Hivset Turnhout
-	- Paramedisch Instituut Mechelen
-	- Stella Maris Instituut Merksem
-
+    - hivset_turnhout
+    - paramedisch_instituut_mechelen
+    - stella_maris_merksem
 summary: Met de groeiende vraag naar tandheelkundige verzorging en het dalend aantal tandartsen in ons land is een gekwalificeerde tandartsassistent geen overbodige luxe in de tandartspraktijk. Integendeel, de tandartsassistent kan de tandarts bijstaan bij de voorbereiding en uitvoering van de behandeling en ondersteunt hem zowel op administratief, informatief als logistiek niveau.
 ---
 

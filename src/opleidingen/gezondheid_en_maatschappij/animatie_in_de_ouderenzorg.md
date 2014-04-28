@@ -1,8 +1,8 @@
-#Animatie in de ouderenzorg
+# Animatie in de ouderenzorg
 
 _Een zinvolle dagbesteding maakt je oude dag aangenaam. Ouderenanimatie is dan ook een belangrijke pijler van de integrale zorg. Als animator in de ouderenzorg kan je bijdragen tot een aangename woon-en leefsfeer waarin ouderen zich gewaardeerd voelen. Je organiseert en coördineert individuele en groepsgerichte activiteiten en werkt samen met het hele zorgteam.__
 
-##Iets voor jou?
+## Iets voor jou?
 
 Voel jij je aangesproken, dan ben je beslist:
 
