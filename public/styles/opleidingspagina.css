@@ -3,22 +3,28 @@
 /**
  *  1. Base Rules
  */
-body {
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ body {
+    font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-h1,h2,h3,h4,h5,h6,strong {
-	font-weight: 600; /* We prefer a more subtle semi-bold */
+h1, h2, h3, h4, h5, h6, strong {
+    font-weight: 600;
+    /* We prefer a more subtle semi-bold */
 }
-
+header {
+    background-color:#CCC;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    padding: 1em;
+}
 /**
  *  2. Layout Rules
  */
 
-
 /**
  *  3. Module Rules
  */
-
 
 /**
  *  4. State Rules
