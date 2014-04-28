@@ -1,6 +1,16 @@
-# Internationaal transport en goederenverzending
+---
+url: opleidingen/administratie_en_handel/internationaal_transport_en_goederenverzending.html
+title: Internationaal transport en goederenverzending
+tags:
+	- internationaal transport en goederenverzending
+scholen:
+	- KA Antwerpen
+	- KA Willebroek
+	- KTA Brasschaat
+	- Scheppersinstituut Antwerpen
 
-_In de Antwerpse haven zie je de hele wereld voor je neus passeren. Is de opleiding Internationaal transport en goederenverzending jouw sleutel tot deze boeiende internationale omgeving? Niet alleen expeditiekantoren, rederijen en goederenbehandelaars maar ook handelsfirma’s en productiebedrijven hebben nood aan mensen met kennis over import, export, douane, gevaarlijke goederen, verschepingen en logistiek._
+summary: In de Antwerpse haven zie je de hele wereld voor je neus passeren. Is de opleiding Internationaal transport en goederenverzending jouw sleutel tot deze boeiende internationale omgeving? Niet alleen expeditiekantoren, rederijen en goederenbehandelaars maar ook handelsfirma’s en productiebedrijven hebben nood aan mensen met kennis over import, export, douane, gevaarlijke goederen, verschepingen en logistiek.
+---
 
 ## Iets voor jou?
 

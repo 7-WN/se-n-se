@@ -1,4 +1,10 @@
-# Interactieve multimediatechnieken
+---
+url: opleidingen/administratie_en_handel/interactieve_multimediatechnieken.html
+title: Interactieve multimediatechnieken
+tags:
+	- interactieve multimedia technieken
+scholen:
+	-
 
 _Zet voet op de planeet 3D-animatie, 
 databasegestuurde websites, gameontwerp 

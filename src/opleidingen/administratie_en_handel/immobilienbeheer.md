@@ -1,6 +1,13 @@
-# Immobiliënbeheer
+---
+url: opleidingen/administratie_en_handel/immobiliënbeheer.html
+title: Immobiliënbeheer
+tags:
+	- immobiliënbeheer
+scholen:
+	- secundaire handelsschool Sint-Lodewijk A'PEN
 
-_Met klanten panden bezoeken, de publiciteit verzorgen, inkoop-en verkoopgesprekken voeren en het verlijden van een verkoopakte bijwonen bij de notaris. Het is een greep uit het gevarieerde en boeiende takenpakket van de medewerker in een vastgoedkantoor. Ook administratieve taken horen hier bij:bijhouden van klantenbestanden, verzorgen van mailings, documenten aanvragen, voorbereiden van huur- of koopovereenkomsten, …_
+summary: Met klanten panden bezoeken, de publiciteit verzorgen, inkoop-en verkoopgesprekken voeren en het verlijden van een verkoopakte bijwonen bij de notaris. Het is een greep uit het gevarieerde en boeiende takenpakket van de medewerker in een vastgoedkantoor. Ook administratieve taken horen hier bij:bijhouden van klantenbestanden, verzorgen van mailings, documenten aanvragen, voorbereiden van huur- of koopovereenkomsten, …
+---
 
 ## Iets voor jou?
 

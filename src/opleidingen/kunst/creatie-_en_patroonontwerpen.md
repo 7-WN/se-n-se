@@ -1,12 +1,19 @@
-# Creatie- en patroonontwerpen
+---
+url: opleidingen/administratie_en_handel/creatie-_en_patroonontwerpen.html
+title: Creatie- en patroonontwerpen
+tags:
+	- creatie- en patroonontwerpen
+scholen:
+	-
 
-_Je hebt een passie voor mode, een hoofd 
+summary: Je hebt een passie voor mode, een hoofd 
 vol creatieve ideeën en je hebt ambities 
 in de modesector. Dan moet je vooral 
 een degelijke basis hebben en goede 
 contacten leggen. Met de opleiding 
 Creatie- en patroonontwerpen zijn de 
-eerste stappen makkelijker gezet.-
+eerste stappen makkelijker gezet.
+---
 
 ## Iets voor jou?
 Voel jij je aangesproken? Dan ben je: 

@@ -2,7 +2,10 @@
 url: opleidingen/administratie_en_handel/administratie_vrije_beroepen.html
 title: Administratie Vrije Beroepen
 tags: 
-	- administratie-en-handel
+	- administratie vrije beroepen
+scholen:
+	- secundaire handelsschool Sint_lodewijk A'PEN
+	- Sint-Ursula-Instituut lier
 summary: Of je nu advocaat, notaris, gerechtsdeurwaarder of verzekeringsagent bent, zonder goed administratief personeel sta je nergens. Enkel met een vlotte organisatie en een vlekkeloze administratie kan je je kantoor draaiende houden. De rol die een administratief bediende daarin speelt, kan je maar beter niet onderschatten.
 ---
 

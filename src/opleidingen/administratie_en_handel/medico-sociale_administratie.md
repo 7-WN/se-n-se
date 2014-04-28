@@ -1,6 +1,12 @@
-# Medico-sociale administratie
-
-_De diensten- en verzorgingssector neemt in onze maatschappij een steeds belangrijkere plaats in. Heel wat rusthuizen, revalidatiecentra, ziekenhuizen en psychiatrische instellingen zijn op zoek naar geëngageerde medewerkers voor de administratie en het onthaal._
+---
+url: opleidingen/administratie_en_handel/medico-sociale administratie.html
+title: Medico-sociale administratie
+tags:
+	- medico-sociale administratie
+school:
+	- Scheppersinstituut Antwerpen
+summary: De diensten- en verzorgingssector neemt in onze maatschappij een steeds belangrijkere plaats in. Heel wat rusthuizen, revalidatiecentra, ziekenhuizen en psychiatrische instellingen zijn op zoek naar geëngageerde medewerkers voor de administratie en het onthaal.
+---
 
 ## Iets voor jou?
 

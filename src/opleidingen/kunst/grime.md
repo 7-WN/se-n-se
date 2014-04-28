@@ -1,13 +1,20 @@
-# Grime
+---
+url: opleidingen/administratie_en_handel/grime.html
+title: Grime
+tags:
+	-grime
+scholen:
+	-
 
-_Achter de schermen werken van tv, theater,
+summary: Achter de schermen werken van tv, theater,
 een modedefilé of een opera … is jouw grote
 droom. Ben je creatief en wil je als visagiste
 aan de slag, dan ben jij de geknipte 
 persoon om een Se-n-Se Grime te volgen 
 en je creativiteit ten dienste te stellen 
 van acteurs, regisseurs, theatermakers, 
-modeontwerpers en fotografen._
+modeontwerpers en fotografen.
+---
 
 ## Iets voor jou?
 Voel jij je aangesproken, dan ben je: 

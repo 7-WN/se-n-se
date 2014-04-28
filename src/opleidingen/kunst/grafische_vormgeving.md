@@ -1,9 +1,15 @@
-# Grafische vormgeving
+---
+url: opleidingen/administratie_en_handel/grafische_vormgeving.html
+title: Grafische vormgeving
+tags:
+	- grafische vormgeving
+scholen:
+	-
 
-_met opties Grafisch Ontwerp / Illustratie /Webdesign / Mode & Styling / 
+summary: met opties Grafisch Ontwerp / Illustratie /Webdesign / Mode & Styling / 
 Decor & Productpresentatie - wil aan jonge creatievelingen de mogelijkheid 
 bieden hun specifiek talent te ontdekken en ontplooien._
-
+---
 ## Iets voor jou?
 Heb je artistieke en/of creatieve ambitie, wil je dingen bedenken én maken, 
 wil je een creatief beroep uitoefenen?
