@@ -4,11 +4,7 @@
  *  1. Base Rules
  */
  body {
-    font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-h1, h2, h3, h4, h5, h6, strong {
-    font-weight: 600;
-    /* We prefer a more subtle semi-bold */
+    font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif;
 }
 .inleiding {
     font-weight: 600;
