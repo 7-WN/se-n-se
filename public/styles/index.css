@@ -50,6 +50,9 @@ h2 {
     font-size:16px;
     font-family:'Roboto', sans-serif;
 }
+#se-n-se {
+    background-color:rgb(255, 231, 76);
+}
 #techniek-en-wetenschap {
     background-color:rgb(204, 0, 51);
 }
@@ -64,10 +67,10 @@ h2 {
 }
 #navigation {
     position:fixed;
-    margin-left:20%;
+    margin-left:10%;
     padding:10px;
     padding-top:20px;
-    width:60%;
+    width:80%;
     height:70px;
     border-radius:5px;
     background-color:rgba(255, 255, 255, 0.7);
@@ -87,6 +90,8 @@ h2 {
 #welkom {
     padding-top:200px;
     min-height:1000px;
+    background:url('../images/index/logo.png')50% 20% no-repeat;
+
 }
 #logo {
     width:100%;
@@ -96,15 +101,6 @@ h2 {
     margin-left:20%;
     width:60%;
     text-align:right;
-}
-#foto-se-n-se {
-    position:relative;
-    z-index:-50000;
-    margin-top: -50px;
-    padding:100px 0;
-    width:100%;
-    height:auto;
-    background:url('../images/index/logo.png')50% 0 fixed no-repeat;
 }
 #foto-techniek-en-wetenschap {
     position:relative;
@@ -149,6 +145,11 @@ h2 {
 #welkomlink:hover {
     border-radius:5px;
     background-color:rgb(139, 131, 134);
+    color:#FFF;
+}
+#se-n-selink:hover {
+    border-radius:5px;
+    background-color:rgb(255, 231, 76);
     color:#FFF;
 }
 #technieklink:hover {
