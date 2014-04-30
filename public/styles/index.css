@@ -127,34 +127,42 @@ h2 {
  *  4. State Rules
  */
 #welkomlink:hover {
-    border-radius:5px;
     background-color:rgb(139, 131, 134);
     color:#FFF;
 }
 #se-n-selink:hover {
-    border-radius:5px;
     background-color:rgb(255, 231, 76);
     color:#FFF;
 }
 #technieklink:hover {
-    border-radius:5px;
     background-color:rgb(204, 0, 51);
     color:#FFF;
 }
 #gezondheidlink:hover {
-    border-radius:5px;
     background-color:rgb(0, 153, 204);
     color:#FFF;
 }
 #administratielink:hover {
-    border-radius:5px;
     background-color:rgb(153, 204, 0);
     color:#FFF;
 }
 #kunstlink:hover {
-    border-radius:5px;
     background-color:rgb(255, 153, 0);
     color:#FFF;
+}
+.navigation {
+    position:fixed;
+    margin-left:10%;
+    padding:10px;
+    padding-left: 80px;
+    padding-top:20px;
+    width:80%;
+    height:70px;
+    background-color:rgba(255, 255, 255, 0.7);
+    color:#FFF;
+    text-align:center;
+    font-size:15px;
+    z-index: 5000;
 }
 
 /**
