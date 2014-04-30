@@ -42,16 +42,16 @@ a{
     background-color:rgb(255, 231, 76);
 }
 #techniek-en-wetenschap {
-    background-color:rgb(204, 0, 51);
+    background-color: #CE003E;
 }
 #gezondheid-en-maatschappij {
-    background-color:rgb(0, 153, 204);
+    background-color: #00AFC8;
 }
 #administratie-en-handel {
-    background-color:rgb(153, 204, 0);
+    background-color: #87C800;
 }
 #kunst {
-    background-color:rgb(255, 153, 0);
+    background-color: 
 }
 #navigation {
     position:fixed;
