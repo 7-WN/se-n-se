@@ -4,10 +4,10 @@ title: Esthetische lichaamsverzorging
 tags:
     - gezondheid-en-maatschappij
 scholen:
-    - heilig_graf_kunst_en_creatie
+    - heilig_grafinstituut_turnhout
     - koninklijk_atheneum_schoten
     - koninklijk_technisch_atheneum_kapellen
-    - leonardo_lyceum
+    - leonardo_lyceum_sito5_antwerpen
     - sint_elisabeth_instituut_merksem
     - sint_lutgardinstituut_mol
 summary: Waar kan een mens zich beter ontspannen en volledig tot rust komen na een hectische dag dan in het wellness centrum? Vooral als hij onder handen genomen kan worden door een zelfbewuste schoonheidsspecialiste die net dat tikkeltje meer in huis heeft dankzij de opleiding Esthetische lichaamsverzorging.

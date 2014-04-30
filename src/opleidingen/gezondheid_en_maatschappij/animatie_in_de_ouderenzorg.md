@@ -4,7 +4,7 @@ title: Animatie in de ouderenzorg
 tags:
     - gezondheid-en-maatschappij
 scholen:
-    - leonardo_lyceum
+    - leonardo_lyceum_sito7_antwerpen
 summary: Een zinvolle dagbesteding maakt je oude dag aangenaam. Ouderenanimatie is dan ook een belangrijke pijler van de integrale zorg. Als animator in de ouderenzorg kan je bijdragen tot een aangename woon-en leefsfeer waarin ouderen zich gewaardeerd voelen. Je organiseert en coördineert individuele en groepsgerichte activiteiten en werkt samen met het hele zorgteam.
 ---
 
