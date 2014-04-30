@@ -16,17 +16,17 @@
 	</header>
 	<div class="container">
 	<main>
-		<p class="lead">{{summary}}</p>
+		<p class="inleiding">{{summary}}</p>
 		{{#markdown}}
 			{{> body }}
 		{{/markdown}}
 	</main>
 	<section class="scholen">
-		<article class="school">
-			{{#each scholen}}
-				{{include this}}
-			{{/each}}
-		</article>
+		{{#each scholen}}
+			<article class="school">
+			{{include this}}
+			</article>
+		{{/each}}
 	</section>
 	</div>
 </body>

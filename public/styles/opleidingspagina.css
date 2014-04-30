@@ -10,15 +10,10 @@ h1, h2, h3, h4, h5, h6, strong {
     font-weight: 600;
     /* We prefer a more subtle semi-bold */
 }
-h2 {
-    color:rgb(153, 204, 0);
-}
-header {
-    background-color: rgb(153, 204, 0);
-}
-.Inleiding {
+.inleiding {
     font-weight: 600;
     font-style: italic;
+    font-size: 16px;
 }
 /**
  *  2. Layout Rules
@@ -42,4 +37,45 @@ p {
 }
 main {
     padding-bottom: 10px;
+}
+.school {
+    float: left;
+    min-width: 530px;
+}
+p {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-top: 10px !important;
+}
+/**
+* 3. theme rules
+*/
+
+/* Administratie en handel opleidingspagina's */
+ .administratie-en-handel header {
+    background-color: rgb(153, 204, 0);
+}
+.administratie-en-handel h2 {
+    color:rgb(153, 204, 0);
+}
+/* Gezondheid en maatschappij opleidingspagina's */
+ .gezondheid-en-maatschappij header {
+    background-color: rgb(0, 153, 204);
+}
+.gezondheid-en-maatschappij h2 {
+    color:rgb(0, 153, 204);
+}
+/* Kunst opleidingspagina's */
+ .kunst header {
+    background-color: rgb(255, 153, 0);
+}
+.kunst h2 {
+    color:rgb(255, 153, 0);
+}
+/* Techniek en wetenschap opleidingspagina's */
+ .techniek-en-wetenschap header {
+    background-color: rgb(204, 0, 51);
+}
+.techniek-en-wetenschap h2 {
+    color:rgb(204, 0, 51);
 }
