@@ -4,10 +4,7 @@
  *  1. Base Rules
  */
 body {
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-h1,h2,h3,h4,h5,h6,strong {
-	font-weight: 600; /* We prefer a more subtle semi-bold */
+	font-family: "Nobile", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h1 {
 	margin-top:80px;
@@ -37,9 +34,6 @@ h2 {
   min-height:1000px;
   box-shadow: #000 0 0 200px -15px;
   color:#FFF;
-}
-.tekstje {
-    font-size:16px;
 }
 #se-n-se {
     background-color:rgb(255, 231, 76);
