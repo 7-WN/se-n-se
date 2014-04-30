@@ -37,18 +37,9 @@ h2 {
   min-height:1000px;
   box-shadow: #000 0 0 200px -15px;
   color:#FFF;
-  font-family:verdana;
-}
-.richting {
-    float:left;
-    margin-bottom:15px;
-    margin-left:30px;
-    min-height:200px;
-    width:20%;
 }
 .tekstje {
     font-size:16px;
-    font-family:'Roboto', sans-serif;
 }
 #se-n-se {
     background-color:rgb(255, 231, 76);
@@ -85,7 +76,6 @@ h2 {
     color:#000;
     text-decoration:none;
     font-size:15px;
-    font-family:verdana;
 }
 #welkom {
     padding-top:200px;
@@ -172,3 +162,35 @@ h2 {
     background-color:rgb(255, 153, 0);
     color:#FFF;
 }
+
+/**
+ *  5. Media Queries
+ */
+
+/* xs */
+@media (max-width: 768px) { 
+    .opleiding {
+        clear: left;
+    }
+ }
+
+ /* sm */
+ @media (min-width: 768px) and (max-width: 992px) {
+    .opleiding:nth-child(2n) {
+        clear: left;
+    }
+ }
+
+ /* md */
+ @media (min-width: 992px) and (max-width: 1200px) {
+    .opleiding:nth-child(3n+2) {
+        clear: left;
+    }
+ }
+
+ /* lg */
+ @media (min-width: 1200px) {
+    .opleiding:nth-child(4n+2) {
+        clear: left;
+    }
+ }
