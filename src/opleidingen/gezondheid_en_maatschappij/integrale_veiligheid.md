@@ -4,7 +4,7 @@ title: Integrale veiligheid
 tags:
     - gezondheid-en-maatschappij
 scholen:
-    - heilig_graf_kunst_en_creatie
+    - heilig_grafinstituut_turnhout
     - provenciaal_instituut_sint_godelieve_antwerpen
     - sint_norbertusinstituut_antwerpen
     - stedelijk_handelsinstituut_merksem
