@@ -1,12 +1,11 @@
 ---
 url: opleidingen/techniek_en_wetenschap/stuur-_en_beveiligingstechnieken.html
-title: Stuur- en beveiligingstechnieken
+title: "Stuur- en beveiligingstechnieken"
 tags:
     - techniek-en-wetenschap
 scholen:
     - vrij_technisch_instituut_turnhout
-summary: Door het volgen van dit zevende jaar word je specialist in twee domeinen. 
-Enerzijds zoek je verder alle mogelijkheden uit om met behulp van PLC’s processen te automatiseren. Anderzijds zorgen we voor een stevige basis waardoor je later de installatie en het onderhoud van alarminstallaties kan uitvoeren. Dat je door het volgen van deze opleiding je toekomstmogelijkheden op de arbeidsmarkt dus sterk verhoogt, spreekt voor zich.
+summary: Door het volgen van dit zevende jaar word je specialist in twee domeinen. Enerzijds zoek je verder alle mogelijkheden uit om met behulp van PLC’s processen te automatiseren. Anderzijds zorgen we voor een stevige basis waardoor je later de installatie en het onderhoud van alarminstallaties kan uitvoeren. Dat je door het volgen van deze opleiding je toekomstmogelijkheden op de arbeidsmarkt dus sterk verhoogt, spreekt voor zich.
 ---
 
 ## Iets voor jou?
