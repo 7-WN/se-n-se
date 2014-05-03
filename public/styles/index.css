@@ -57,7 +57,7 @@ a {
     text-align: center;
     letter-spacing: -0.072em;
     font-weight: bold;
-    font-family:"Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif vertical-align: bottom;
+    vertical-align: bottom;
 }
 .subtitle {
     color: #B1B2B5;
