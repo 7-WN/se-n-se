@@ -158,14 +158,14 @@ a{
  }
 
  /* md */
- @media (min-width: 992px) and (max-width: 1200px) {
+ @media (min-width: 993px) and (max-width: 1200px) {
     .opleiding:nth-child(3n+2) {
         clear: left;
     }
  }
 
  /* lg */
- @media (min-width: 1200px) {
+ @media (min-width: 1201px) {
     .opleiding:nth-child(4n+2) {
         clear: left;
     }
