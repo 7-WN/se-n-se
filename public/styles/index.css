@@ -53,22 +53,16 @@ a {
 
 /* Logo */
  .logo {
-    margin: 60px 0 0 0;
+    margin-top: 0.25em;
     text-align: center;
     letter-spacing: -0.072em;
     font-weight: bold;
-    font-size: 360px;
-    font-family:"Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif;
-    line-height: 275px;
-    vertical-align: top;
+    font-family:"Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif vertical-align: bottom;
 }
 .subtitle {
     color: #B1B2B5;
     text-align: right;
     font-weight: 300;
-    font-size: 24px;
-    line-height: 36px;
-    margin-top: 18px;
 }
 /* navigation */
  .navigation {
@@ -166,12 +160,30 @@ a {
         /* 1 column */
         clear: left;
     }
+    .logo {
+        font-size: 90px;
+        line-height: 76px;
+    }
+    .subtitle {
+        font-size: 18px;
+        line-height: 24px;
+        margin-top: 12px;
+    }
 }
 /* sm */
  @media (min-width: 768px) and (max-width: 992px) {
     .opleiding:nth-child(2n) {
         /* 2 columns */
         clear: left;
+    }
+    .logo {
+        font-size: 220px;
+        line-height: 180px;
+    }
+    .subtitle {
+        font-size: 18px;
+        line-height: 24px;
+        margin-top: 0;
     }
 }
 /* md */
@@ -180,11 +192,29 @@ a {
         /* 3 columns */
         clear: left;
     }
+    .logo {
+        font-size: 300px;
+        line-height: 240px;
+    }
+    .subtitle {
+        font-size: 24px;
+        line-height: 36px;
+        margin-top: 12px;
+    }
 }
 /* lg */
  @media (min-width: 1201px) {
     .opleiding:nth-child(4n+2) {
         /* 4 columns */
         clear: left;
+    }
+    .logo {
+        font-size: 360px;
+        line-height: 280px;
+    }
+    .subtitle {
+        font-size: 24px;
+        line-height: 36px;
+        margin-top: 18px;
     }
 }
