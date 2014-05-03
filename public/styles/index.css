@@ -7,37 +7,68 @@
     font-family:"Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif;
 }
 h1 {
-    margin-top:80px;
-    margin-bottom:30px;
-    width:100%;
-    text-align:center;
+    margin: 0;
+    text-align: center;
+    letter-spacing: -0.072em;
+    font-weight: bold;
+    font-size: 360px;
+    font-family:"Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif;
+    line-height: 275px;
+    vertical-align: top;
+}
+.subtitle {
+    color: #B1B2B5;
+    text-align: right;
+    font-weight: 300;
+    font-size: 24px;
 }
 h2 {
     min-height:40px;
     font-weight:bold;
-    font-size:35px;
+    font-size:36px;
 }
 a {
     color: gray;
 }
-
-
-
+.center {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.text-block {
+    display: inline-block;
+    width: auto;
+}
+.super {
+    vertical-align: super;
+}
+.red {
+    color: #CE003E;
+}
+.orange {
+    color: #FFA600;
+}
+.green {
+    color: #87C800;
+}
+.blue {
+    color: #00AFC8;
+}
+.silver {
+    color: #B1B2B5;
+}
 /**
  *  2. Layout Rules
  */
  .container {
     width: 100% !important;
 }
-
-
-
 /**
  *  3. Module Rules
  */
 
 /* navigation */
-.navigation {
+ .navigation {
     position:fixed;
     z-index: 5000;
     margin-left:10%;
@@ -46,43 +77,36 @@ a {
     padding-left: 80px;
     width:80%;
     height:70px;
+    background-color: #FFF;
     background-color:rgba(255, 255, 255, 0.7);
     color:#FFF;
     text-align:center;
     font-size:15px;
 }
- 
 /* domein */
  .domein {
     margin:0;
     padding:15px;
-    min-height:1000px;
     box-shadow: #000 0 0 200px -15px;
     color:#FFF;
 }
 #se-n-se {
     background-color:rgb(255, 231, 76);
 }
-#techniek-en-wetenschap {
-    background-color: #CE003E;
+#administratie-en-handel {
+    background-color: #87C800;
 }
 #gezondheid-en-maatschappij {
     background-color: #00AFC8;
 }
-#administratie-en-handel {
-    background-color: #87C800;
-}
 #kunst {
     background-color: #FFA600;
 }
-#welkom {
-    padding-top:200px;
-    min-height:1000px;
-    background:url('../images/index/logo.png')50% 20% no-repeat;
+#techniek-en-wetenschap {
+    background-color: #CE003E;
 }
-
 /* foto */
-.foto {
+ .foto {
     position:relative;
     z-index:-50000;
     margin:0 auto;
@@ -90,7 +114,7 @@ a {
     width:100%;
     height:auto;
 }
-#foto-techniek-en-wetenschap {  
+#foto-techniek-en-wetenschap {
     background:url('../images/index/tech.jpg')50% 0 fixed;
 }
 #foto-gezondheid-en-maatschappij {
@@ -102,9 +126,6 @@ a {
 #foto-kunst {
     background:url('../images/index/kunst.jpg')50% 0 fixed;
 }
-
-
-
 /**
  *  4. State Rules
  */
@@ -132,9 +153,6 @@ a {
     background-color:rgb(255, 153, 0);
     color:#FFF;
 }
-
-
-
 /**
  *  5. Media Queries
  */
@@ -142,24 +160,28 @@ a {
 /* xs */
  @media (max-width: 768px) {
     .opleiding {
+        /* 1 column */
         clear: left;
     }
 }
 /* sm */
  @media (min-width: 768px) and (max-width: 992px) {
     .opleiding:nth-child(2n) {
+        /* 2 columns */
         clear: left;
     }
 }
 /* md */
  @media (min-width: 993px) and (max-width: 1200px) {
     .opleiding:nth-child(3n+2) {
+        /* 3 columns */
         clear: left;
     }
 }
 /* lg */
  @media (min-width: 1201px) {
     .opleiding:nth-child(4n+2) {
+        /* 4 columns */
         clear: left;
     }
 }
