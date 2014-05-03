@@ -54,10 +54,10 @@ a {
 /* Logo */
  .logo {
     margin-top: 0.25em;
+    vertical-align: bottom;
     text-align: center;
     letter-spacing: -0.072em;
     font-weight: bold;
-    vertical-align: bottom;
 }
 .subtitle {
     color: #B1B2B5;
@@ -88,7 +88,8 @@ a {
     color:#FFF;
 }
 #se-n-se {
-    background-color:rgb(255, 231, 76);
+    background-color: #B1B2B5;
+    color: white;
 }
 #administratie-en-handel {
     background-color: #87C800;
@@ -110,18 +111,25 @@ a {
     padding:300px 0;
     width:100%;
     height:auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#foto-se-n-se {
+    background-image: url('../images/index/se-n-se.jpg');
 }
 #foto-techniek-en-wetenschap {
-    background:url('../images/index/tech.jpg')50% 0 fixed;
+    background-image: url('../images/index/tech.jpg');
 }
 #foto-gezondheid-en-maatschappij {
-    background:url('../images/index/gezondheid.jpg')50% 0 fixed;
+    background-image: url('../images/index/gezondheid.jpg');
 }
 #foto-administratie-en-handel {
-    background:url('../images/index/administratie.jpg')50% 0 fixed;
+    background-image: url('../images/index/administratie.jpg');
 }
 #foto-kunst {
-    background:url('../images/index/kunst.jpg')50% 0 fixed;
+    background-image: url('../images/index/kunst.jpg');
 }
 /**
  *  4. State Rules
@@ -165,9 +173,9 @@ a {
         line-height: 76px;
     }
     .subtitle {
+        margin-top: 12px;
         font-size: 18px;
         line-height: 24px;
-        margin-top: 12px;
     }
 }
 /* sm */
@@ -181,9 +189,9 @@ a {
         line-height: 180px;
     }
     .subtitle {
+        margin-top: 0;
         font-size: 18px;
         line-height: 24px;
-        margin-top: 0;
     }
 }
 /* md */
@@ -197,9 +205,9 @@ a {
         line-height: 240px;
     }
     .subtitle {
+        margin-top: 12px;
         font-size: 24px;
         line-height: 36px;
-        margin-top: 12px;
     }
 }
 /* lg */
@@ -213,8 +221,8 @@ a {
         line-height: 280px;
     }
     .subtitle {
+        margin-top: 18px;
         font-size: 24px;
         line-height: 36px;
-        margin-top: 18px;
     }
 }
