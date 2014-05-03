@@ -3,40 +3,38 @@
 /**
  *  1. Base Rules
  */
-body {
-	font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif;
+ body {
+    font-family:"Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif;
 }
 h1 {
-	margin-top:80px;
-  margin-bottom:30px;
-  width:100%;
-  text-align:center;
+    margin-top:80px;
+    margin-bottom:30px;
+    width:100%;
+    text-align:center;
 }
 h2 {
-	 min-height:40px;
-   font-weight:bold;
-   font-size:35px;
+    min-height:40px;
+    font-weight:bold;
+    font-size:35px;
 }
-a{
+a {
     color: gray;
 }
-
 /**
  *  2. Layout Rules
  */
-.container {
+ .container {
     width: 100% !important;
 }
-
 /**
  *  3. Module Rules
  */
-.domein {
-	margin:0;
-  padding:15px;
-  min-height:1000px;
-  box-shadow: #000 0 0 200px -15px;
-  color:#FFF;
+ .domein {
+    margin:0;
+    padding:15px;
+    min-height:1000px;
+    box-shadow: #000 0 0 200px -15px;
+    color:#FFF;
 }
 #se-n-se {
     background-color:rgb(255, 231, 76);
@@ -53,12 +51,10 @@ a{
 #kunst {
     background-color: #FFA600;
 }
-
 #welkom {
     padding-top:200px;
     min-height:1000px;
     background:url('../images/index/logo.png')50% 20% no-repeat;
-
 }
 #foto-techniek-en-wetenschap {
     position:relative;
@@ -96,11 +92,10 @@ a{
     height:auto;
     background:url('../images/index/kunst.jpg')50% 0 fixed;
 }
-
 /**
  *  4. State Rules
  */
-#welkomlink:hover {
+ #welkomlink:hover {
     background-color:rgb(139, 131, 134);
     color:#FFF;
 }
@@ -126,47 +121,43 @@ a{
 }
 .navigation {
     position:fixed;
+    z-index: 5000;
     margin-left:10%;
     padding:10px;
-    padding-left: 80px;
     padding-top:20px;
+    padding-left: 80px;
     width:80%;
     height:70px;
     background-color:rgba(255, 255, 255, 0.7);
     color:#FFF;
     text-align:center;
     font-size:15px;
-    z-index: 5000;
 }
-
 /**
  *  5. Media Queries
  */
 
 /* xs */
-@media (max-width: 768px) { 
+ @media (max-width: 768px) {
     .opleiding {
         clear: left;
     }
- }
-
- /* sm */
+}
+/* sm */
  @media (min-width: 768px) and (max-width: 992px) {
     .opleiding:nth-child(2n) {
         clear: left;
     }
- }
-
- /* md */
+}
+/* md */
  @media (min-width: 993px) and (max-width: 1200px) {
     .opleiding:nth-child(3n+2) {
         clear: left;
     }
- }
-
- /* lg */
+}
+/* lg */
  @media (min-width: 1201px) {
     .opleiding:nth-child(4n+2) {
         clear: left;
     }
- }
+}
