@@ -5,6 +5,8 @@
  */
  body {
     font-family:"Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif;
+    background-color: #B1B2B5;
+    color: #FFF;
 }
 h2 {
     min-height:40px;
@@ -85,23 +87,36 @@ a {
     margin:0;
     padding:15px;
     box-shadow: #000 0 0 200px -15px;
-    color:#FFF;
+}
+#welkom {
+    background-color: #FFF;
 }
 #se-n-se {
     background-color: #B1B2B5;
-    color: white;
 }
 #administratie-en-handel {
     background-color: #87C800;
 }
+#administratie-en-handel a {
+    color: #CE003E;
+}
 #gezondheid-en-maatschappij {
     background-color: #00AFC8;
+}
+#gezondheid-en-maatschappij a {
+    color: #FFA600;
 }
 #kunst {
     background-color: #FFA600;
 }
+#kunst a {
+    color: #00AFC8;
+}
 #techniek-en-wetenschap {
     background-color: #CE003E;
+}
+#techniek-en-wetenschap a {
+    color: #87C800;
 }
 /* foto */
  .foto {
@@ -130,6 +145,14 @@ a {
 }
 #foto-kunst {
     background-image: url('../images/index/kunst.jpg');
+}
+/* Footer */
+ footer {
+    text-align: right;
+    padding: 1em inherit;
+}
+footer a {
+    color: #CE003E;
 }
 /**
  *  4. State Rules
