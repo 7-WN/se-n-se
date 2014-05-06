@@ -74,11 +74,11 @@ a {
     text-align:center;
     font-size:15px;
 }
-
 /* domein */
  .domein {
     margin:0;
-    padding:15px;
+    padding:2em;
+    padding-top: 3em;
     box-shadow: #000 0 0 200px -15px;
 }
 #welkom {
@@ -242,7 +242,7 @@ footer a {
         line-height: 36px;
     }
 }
-.navbar{
+.navbar {
     border-radius: 0;
     margin-bottom: 0;
     position: fixed;
