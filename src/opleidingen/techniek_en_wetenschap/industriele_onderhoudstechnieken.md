@@ -1,10 +1,11 @@
 ---
-url: opleidingen/techniek_en_wetenschap/industriële_onderhoudstechnieken.html
+url: opleidingen/techniek_en_wetenschap/industriele_onderhoudstechnieken.html
 title: Industriële onderhoudstechnieken
 tags:
     - techniek-en-wetenschap
 scholen:
     - gesubsidieerd_technisch_instituut_mortsel
+    - don_bosco_technisch_instituut_hoboken
 summary: Goede onderhoudstechnici zijn in elk bedrijf onmisbaar en worden als vaklui enorm gewaardeerd. Waarom zou je niet overwegen om je te specialiseren in veel gevraagde onderhoudsdomeinen zoals montage, demontage, pneumatica, hydraulica, elektriciteit, elektronica, automatisering of robotica? Waar je ook terecht komt, geen enkele job zal je meer afwisseling en uitdaging kunnen bieden.
 ---
 
