@@ -1,5 +1,5 @@
 ---
-url: opleidingen/administratie_en_handel/immobiliënbeheer.html
+url: opleidingen/administratie_en_handel/immobilienbeheer.html
 title: Immobiliënbeheer
 tags:
 	- administratie-en-handel

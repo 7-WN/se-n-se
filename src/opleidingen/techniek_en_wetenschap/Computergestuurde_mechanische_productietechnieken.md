@@ -1,5 +1,5 @@
 ---
-url: opleidingen/techniek_en_wetenschap/computergestuurde_mechanische_productietechnieken.html
+url: opleidingen/techniek_en_wetenschap/Computergestuurde_mechanische_productietechnieken.html
 title: Computergestuurde mechanische productietechnieken
 tags:
     - techniek-en-wetenschap
