@@ -15,10 +15,17 @@
 	</header>
 	<div class="container">
 	<main>
-		<p class="inleiding">{{summary}}</p>
-		{{#markdown}}
-			{{> body }}
-		{{/markdown}}
+		<div class="col-md-12">
+			<p class="inleiding">{{summary}}</p>
+		</div>
+		<div class="col-md-8">
+			{{#markdown}}
+				{{> body }}
+			{{/markdown}}
+		</div>
+		<div class="col-md-4">
+			{{Image}}
+		</div>
 	</main>
 	<section class="scholen">
 		{{#each scholen}}
