@@ -9,12 +9,11 @@
 <body class="{{#page.tags}}{{. }}{{/page.tags}}">  {{! list tags for current page as class name in body}}
 
 	<header>
-	<div class="container">
-		<h1>{{title}}</h1>
+		<div class="container">
+			<h1 class="col-md-12">{{title}}</h1>
 		</div>
 	</header>
-	<div class="container">
-	<main>
+	<main class="container">
 		<div class="col-md-12">
 			<p class="inleiding">{{summary}}</p>
 		</div>
@@ -27,13 +26,13 @@
 			{{Image}}
 		</div>
 	</main>
-	<section class="scholen">
+	<section class="scholen container">
+		<h2 class="col-md-12">Scholen:</h2>
 		{{#each scholen}}
-			<article class="school">
+			<article class="school col-md-6">
 			{{include this}}
 			</article>
 		{{/each}}
 	</section>
-	</div>
 </body>
 </html>
