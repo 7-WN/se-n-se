@@ -4,8 +4,8 @@
  *  1. Base Rules
  */
  body {
-    font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif;
     color: #111;
+    font-family:"Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif;
 }
 .inleiding {
     font-weight: 600;
@@ -17,17 +17,18 @@
  */
  header {
     margin: 0 auto 2em auto;
-    text-align: right;
     padding: 1em;
+    text-align: right;
 }
 /** 
  *  3. Modules
  */
+
 /* scholen */
-.u-icon {
-    max-width: 33.333333333%;
+ .u-icon {
     display: block;
     margin: 1em 0 0.5em 0;
+    max-width: 33.333333333%;
 }
 /**
 *  4. Theme Rules
@@ -52,9 +53,11 @@
 /**
  *  5. Media Queries
  */
+
 /* Smaller */
-@media (max-width: 992px) {
-    .school { /* 1 column */
+ @media (max-width: 992px) {
+    .school {
+        /* 1 column */
         clear: left;
     }
 }
