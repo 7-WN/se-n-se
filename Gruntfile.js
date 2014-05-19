@@ -61,8 +61,15 @@ module.exports = function(grunt) {
                 dest: "dist/"
             }
         },
-        // automatically update build when source files are changed and livereload pages if enabled in the browser
+        sitemap: {
+            dist: {
+                siteRoot: "dist/",
+                homepage: "http://www.se-n-se.eu",
+                pattern: "**/*.html"
+            }
+        },
         watch: {
+            // automatically update build when source files are changed and livereload pages if enabled in the browser
             // add or change static files
             assets: {
                 options: {
@@ -89,11 +96,12 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('assemble');
     grunt.loadNpmTasks('grunt-contrib-htmlmin');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
+    grunt.loadNpmTasks('grunt-sitemap');
     grunt.loadNpmTasks('grunt-contrib-watch');
 
     // concatenate the above tasks and give them nice names
     grunt.registerTask('update', "Update installed dependencies or install new dependencies.", ["shell:updatePackages"]);
     grunt.registerTask('build', "Build a debug version of the website and put it in the build folder.", ["clean:build", "copy:assets", "assemble"]);
-    grunt.registerTask('dist', "Create a distribution version of the website and put it in the dist folder.", ["build", "clean:dist", "copy:dist", "htmlmin:dist", "cssmin:dist"]);
+    grunt.registerTask('dist', "Create a distribution version of the website and put it in the dist folder.", ["build", "clean:dist", "copy:dist", "htmlmin:dist", "cssmin:dist", "sitemap:dist"]);
     grunt.registerTask('default', ["build"]);
 };
