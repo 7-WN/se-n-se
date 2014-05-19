@@ -1,5 +1,6 @@
 ### Project Specific
 build/
+dist/
 node_modules/
 bower_components/
 contrib/
@@ -48,3 +49,4 @@ sftp-config.json
 ### Notepad++ see: https://github.com/github/gitignore/blob/master/Global/NotepadPP.gitignore
 # Notepad++ backups #
 *.bak
+
