@@ -20,6 +20,9 @@
     padding: 1em;
     text-align: right;
 }
+.school {
+    float: left;
+}
 /** 
  *  3. Modules
  */
@@ -58,6 +61,13 @@
  @media (max-width: 992px) {
     .school {
         /* 1 column */
+        clear: left;
+    }
+}
+/* Larger */
+@media (min-width: 993px) {
+    /* 2 columns */
+    .school:nth-child(2n){
         clear: left;
     }
 }
