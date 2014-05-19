@@ -56,6 +56,7 @@ To make our lives a little bit easier we use [Bootstrap](http://getbootstrap.com
 Our build system makes extensive use of [grunt](http://gruntjs.com/), the javascript task runner. Grunt helps us build a complete website that we can publish from our source files. We have defined a number of tasks. Run these commands from your shell in the top folder of this project.
 
 * **build:** Build the website in our _build_ directory (this is the default task). `grunt build` or `grunt`
+* **dist:** Build and minify the website in the _dist_ directory. The contents of this directory can then be transfered to the server. `grunt dist`
 * **update:** Update the necessary packages. You must run this task every time that _package.json_ or _bower.json_ are changed. `grunt update`
 * **watch:** Leave this task running to automatically update the build whenever a source file is saved. If you have [the LiveReload extensions](http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-) installed and activated for your browser, your browser will automatically refresh every time a file is updated as well (no more F5 or cmd+R). To make sure that you have all files in your _build_ folder, always run `grunt build` before running `grunt watch`
 
@@ -83,7 +84,8 @@ YAML
 
 * **bin:** contains initialisation scripts that will set you up to work on the source code.
 * **bower_components:** the folder where bower installs its packages, like bootstrap and jquery.
-* **build:** this is where the generated version of the website is created. The contents of this folder are to be put on the webserver.
+* **build:** this is where the generated version of the website is created when running `grunt build` or `grunt`. It is not minified and it it is intended for testing purposes only.
+* **dist:** this is where the generated and minified version of the website is created when running `grunt dist`.The contents of this folder are to be put on the webserver.
 * **layouts:** contains handlebars layout files. These will be wrapped around a content file.
 * **node_modules:** this is where node/npm installs its packages.
 * **partials:** this is where pieces of content are kept that can be reused within other pages or layouts. These files can be in markdown (.md) or handlebars (.hbs) format.
