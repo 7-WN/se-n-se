@@ -4,7 +4,7 @@ title: Internaatswerking
 tags:
     - gezondheid-en-maatschappij
 scholen:
-    - Kardinaal_van_roey-instituut_vorselaar
+    - kvri
 summary: Wie 5 dagen per week in een internaat verblijft, krijgt er een tweede thuis bij. Voor een opvoeder of opvoedster in een internaat is er dan ook een belangrijke begeleidings- en opvoedingstaak weggelegd. Met jongeren in volle ontplooiing is het een complexe en uitdagende opgave. Een praktische maar degelijke pedagogische opleiding is broodnodig voor mensen die mee verantwoordelijk zijn voor een goede dagelijkse gang van zaken op het internaat.
 ---
 

@@ -4,10 +4,9 @@ title: Integrale veiligheid
 tags:
     - gezondheid-en-maatschappij
 scholen:
-    - heilig_grafinstituut_turnhout
-    - provenciaal_instituut_sint_godelieve_antwerpen
-    - sint_norbertusinstituut_antwerpen
-    - stedelijk_handelsinstituut_merksem
+    - heilig_graf_kunst_en_creatie
+    - provinciaal_instituut_sint-godelieve_antwerpen
+    - sint-norbertusinstituut_antwerpen
     - technische_scholen_mechelen
 summary: De zorg voor veiligheid is in onze maatschappij heel belangrijk. Er is dan ook een grote vraag naar goed opgeleide werknemers in de zeer uitleenlopende domeinen van de veiligheidssector. Je kan bijvoorbeeld bij de politie of brandweer terecht komen, ingeschakeld worden als privébewaker of meedraaien in een equipe van voetbalstewards.
 ---

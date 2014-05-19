@@ -7,9 +7,8 @@ scholen:
     - het_spoor_mol
     - hivset_turnhout
     - instituut_sint_maria
-    - koninklijk_technisch_instituut_antwerpen
-    - parademisch_instituut_mechelen
-    - sint-norbertusinstituut_duffel
+    - koninklijk_atheneum_antwerpen
+    - paramedisch_instituut_mechelen
 summary: Zorgen voor mensen die extra begeleiding nodig hebben, het is niet iedereen gegeven. Een hart hebben voor mensen, een luisterend oor kunnen bieden en flexibel inspelen op onverwachte situaties zijn slechts enkele noodzakelijke vaardigheden en attitudes. Heb jij dat talent voor mensen en wil je graag aan de slag in de zorgsector, dan ligt jouw toekomst misschien wel in Leefgroepenwerking.
 ---
 
