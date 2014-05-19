@@ -5,7 +5,6 @@ tags:
     - techniek-en-wetenschap
 scholen:
     - paramedisch_instituut_mechelen
-    - rozenberg_mol
 summary: Spreekt het je aan om de rechterhand te worden van de apotheker bij jou in de buurt of in het ziekenhuis om geneesmiddelen te bereiden, af te leveren en mensen de nodige raad te geven, dan moet je beslist overwegen om een opleiding tot apotheekassistent te volgen. Het levert je de wettelijk erkende beroepstitel van farmaceutisch-technisch assistent op.
 ---
 

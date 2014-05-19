@@ -4,7 +4,7 @@ title: Productie- en procestechnologie
 tags:
     - techniek-en-wetenschap
 scholen:
-    - lyceum_paardenmarkt_antwerpen
+    - stedelijk_lyceum_lamoriniere
 summary: Door de verregaande automatisering in de industrie zijn er meer machines dan mensen aanwezig in een productiebedrijf. Je ziet steeds minder mensen zwoegen en zweten, maar daar staat tegenover dat diegenen die er wel rondlopen een complex en uitgebreid takenpakket hebben. Spreekt het tot jouw verbeelding om één van de mensen te zijn die een volledige productielijn onder controle moeten houden?
 ---
 
