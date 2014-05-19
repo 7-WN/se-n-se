@@ -8,15 +8,22 @@ module.exports = function(grunt) {
         },
         clean: {
             // empties the build directory
-            build: ["build"]
+            build: ["build"],
+            // empties the dist directory
+            dist: ["dist"]
         },
         copy: {
             // copies all files from public to build/public, used for static files
             assets: {
-                expand: true,
-                
+                expand: true,  
                 src: "public/**/*",
                 dest: "build/"
+            },
+            // copies the assets files from public to dist/public, used for static files
+            dist: {
+                expand: true,
+                src: ["public/**/*", "!*.css"],
+                dest: "dist/"
             }
         },
         assemble: {
@@ -31,6 +38,27 @@ module.exports = function(grunt) {
                 cwd: "src/", // current working directory, for relative paths etc.
                 src: ["**/*.md", "**/*.hbs"], // source files must be inside this folder
                 dest: "build/" // where the assembled files are put
+            }
+        },
+        htmlmin: {
+            // minifies the html files by removing whitespace and comments
+            options: {
+                removeComments: true,
+                collapseWhitespace: true
+            },
+            dist: {
+                expand: true,
+                cwd: "build/",
+                src: "**/*.html",
+                dest: "dist/"
+            }
+        },
+        cssmin: {
+            dist: {
+                expand: true,
+                cwd: "build/",
+                src: "**/*.css",
+                dest: "dist/"
             }
         },
         // automatically update build when source files are changed and livereload pages if enabled in the browser
@@ -59,10 +87,13 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks('grunt-contrib-copy');
     grunt.loadNpmTasks('assemble');
+    grunt.loadNpmTasks('grunt-contrib-htmlmin');
+    grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.loadNpmTasks('grunt-contrib-watch');
 
     // concatenate the above tasks and give them nice names
     grunt.registerTask('update', "Update installed dependencies or install new dependencies.", ["shell:updatePackages"]);
-    grunt.registerTask('build', "Build a debug version of the website and put it in the build folder.", ["clean:build", "copy", "assemble"]);
+    grunt.registerTask('build', "Build a debug version of the website and put it in the build folder.", ["clean:build", "copy:assets", "assemble"]);
+    grunt.registerTask('dist', "Create a distribution version of the website and put it in the dist folder.", ["build", "clean:dist", "copy:dist", "htmlmin:dist", "cssmin:dist"]);
     grunt.registerTask('default', ["build"]);
 };
