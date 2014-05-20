@@ -189,20 +189,8 @@ footer a {
         font-size: 18px;
         line-height: 24px;
     }
-    #foto-se-n-se {
-        background-image: url('../images/index/se-n-se-xs.jpg');
-    }
-    #foto-administratie-en-handel {
-        background-image: url('../images/index/administratie-xs.jpg');
-    }
-    #foto-gezondheid-en-maatschappij {
-        background-image: url('../images/index/gezondheid-xs.jpg');
-    }
-    #foto-kunst {
-        background-image: url('../images/index/kunst-xs.jpg');
-    }
-    #foto-techniek-en-wetenschap {
-        background-image: url('../images/index/tech-xs.jpg');
+    .foto {
+        display: none;
     }
 }
 /* sm */
