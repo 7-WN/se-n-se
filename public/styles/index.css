@@ -147,11 +147,11 @@ footer a {
  *  4. State Rules
  */
  #welkomlink:hover {
-    background-color:rgb(139, 131, 134);
-    color:#FFF;
+    background-color:#FFF;
+    color:#B1B2B5;
 }
 #se-n-selink:hover {
-    background-color:rgb(255, 231, 76);
+    background-color:rgb(139, 131, 134);
     color:#FFF;
 }
 #technieklink:hover {
