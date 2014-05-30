@@ -4,8 +4,7 @@ title: Industriële koeltechnieken
 tags:
     - techniek-en-wetenschap
 scholen:
-    - don_bosco_technisch_instituut_hoboken
-    - pts
+    - gesubsidieerd_technisch_instituut_mortsel
 summary: In de nooit aflatende evolutie in deze branche ben je er van bewust dat levenslang leren geen ijdel begrip is. Je bent gedurende je studies en later ook tijdens je carrière, bereid je kennis en vaardigheden te verdiepen en verbreden. Bezit je als toekomstige koeltechnicus deze instelling, dan sta je al met één been in de bedrijfswereld.
 ---
 
