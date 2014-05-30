@@ -1,11 +1,11 @@
 ---
-url: opleidingen/gezondheid_en_maatschappij/sportclub-_en_fitnessbegeleider.html
-title: Sportclub- en fitnessbegeleider
+url: opleidingen/gezondheid_en_maatschappij/sportclub_en_fitnessbegeleider.html
+title: "Sportclub- en fitnessbegeleider"
 tags:
-    -gezondheid-en-maatschappij
+    - gezondheid-en-maatschappij
 scholen:
-    - leonardo_lyceum_sito7_antwerpen
-summary: We houden ervan onze grenzen te verleggen en we krijgen steeds meer vrije tijd. De sportieve sector speelt daar handig op in en het aanbod aan sportactiviteiten breidt zienderogen uit. Fitnesscentra, sportdiensten, speelpleinen en evenementenbureaus hebben voortdurend nieuwe medewerkers nodig om mensen individueel of in groep te begeleiden. Kortom, de sector snakt naar jonge, dynamische mensen die een degelijke opleiding hebben gekregen, maar vooral… van actie houden.
+    - leonardo_lyceum
+summary: "We houden ervan onze grenzen te verleggen en we krijgen steeds meer vrije tijd. De sportieve sector speelt daar handig op in en het aanbod aan sportactiviteiten breidt zienderogen uit. Fitnesscentra, sportdiensten, speelpleinen en evenementenbureaus hebben voortdurend nieuwe medewerkers nodig om mensen individueel of in groep te begeleiden. Kortom, de sector snakt naar jonge, dynamische mensen die een degelijke opleiding hebben gekregen, maar vooral… van actie houden."
 ---
 
 ## Iets voor jou?

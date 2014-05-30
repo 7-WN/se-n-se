@@ -38,6 +38,9 @@
     margin: 1em 0 0.5em 0;
     max-width: 33.333333333%;
 }
+.p-name {
+    font-weight: bold;
+}
 /**
 *  4. Theme Rules
 */

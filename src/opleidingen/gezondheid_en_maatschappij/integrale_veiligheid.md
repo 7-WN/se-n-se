@@ -5,6 +5,7 @@ tags:
     - gezondheid-en-maatschappij
 scholen:
     - heilig_graf_kunst_en_creatie
+    - leonardo_lyceum
     - provinciaal_instituut_sint-godelieve_antwerpen
     - sint-norbertusinstituut_antwerpen
     - technische_scholen_mechelen
