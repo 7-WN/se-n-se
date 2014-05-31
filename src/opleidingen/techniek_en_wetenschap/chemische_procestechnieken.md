@@ -11,7 +11,7 @@ summary: Als procesoperator ben je van onschatbare waarde voor de goede gang van
 
 ## Iets voor jou?
 
-Voel jij je aangesproken, dan heb je:
+Voel jij je aangesproken, dan ben je:
 
 * geïnteresseerd in chemie en techniek
 * bereid om mee te denken over verbeteringen
