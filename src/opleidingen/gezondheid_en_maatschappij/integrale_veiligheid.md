@@ -4,7 +4,7 @@ title: Integrale veiligheid
 tags:
     - gezondheid-en-maatschappij
 scholen:
-    - heilig_graf_kunst_en_creatie
+    - heilig_graf_mens_en_welzijnswetenschappen
     - stedelijk_lyceum_linkeroever
     - provinciaal_instituut_sint-godelieve_antwerpen
     - sint-norbertusinstituut_antwerpen
