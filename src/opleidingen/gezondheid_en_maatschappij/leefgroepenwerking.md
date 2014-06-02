@@ -6,6 +6,7 @@ tags:
 scholen:
     - het_spoor_mol
     - hivset_turnhout
+    - koninklijk_technisch_atheneum_brasschaat
     - instituut_sint_maria
     - koninklijk_atheneum_antwerpen
     - paramedisch_instituut_mechelen
