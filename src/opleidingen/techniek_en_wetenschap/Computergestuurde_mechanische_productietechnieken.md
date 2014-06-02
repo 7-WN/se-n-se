@@ -4,6 +4,7 @@ title: Computergestuurde mechanische productietechnieken
 tags:
     - techniek-en-wetenschap
 scholen:
+    - technisch_instituut_sint-paulus
     - pts
 summary: Hou je van ontwerpen en heb je al een goede kennis van CNC-draaien en frezen? Dan wil je misschien nog net dat stapje hoger gaan en je specialiseren in het volledige productieproces van ontwerp tot eindproduct.
 ---
