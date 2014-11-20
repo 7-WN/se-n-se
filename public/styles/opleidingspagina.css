@@ -20,6 +20,14 @@
     padding: 1em;
     text-align: right;
 }
+.back-button {
+    float: left !important;
+    color: white;
+}
+.back-button:hover {
+    color: silver;
+    text-decoration: none;
+}
 .school {
     float: left;
 }

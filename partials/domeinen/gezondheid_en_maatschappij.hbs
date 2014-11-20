@@ -4,7 +4,7 @@
 		{{#is tag "gezondheid-en-maatschappij"}}
 			{{#each pages}}
 				<article class="opleiding col-xs-12 col-sm-6 col-md-4 col-lg-3">
-					<h3><a href="{{data.url}}" title="secundair na secundair: {{data.title}} leren in de provincie Antwerpen">{{data.title}}</a></h3>
+					<h3><a href="{{data.url}}" title="secundair na secundair: {{data.title}} leren in de provincie Antwerpen" id="{{hyphenate data.title}}">{{data.title}}</a></h3>
 					<p>{{data.summary}}</p>
 					<p><a href="{{data.url}}" title="De sense opleiding: {{data.title}} studeren in de provincie Antwerpen">{{data.title}} studeren?</a></p>
 				</article>
