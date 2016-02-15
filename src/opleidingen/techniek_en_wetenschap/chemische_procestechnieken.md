@@ -1,11 +1,12 @@
 ---
 url: opleidingen/techniek_en_wetenschap/chemische_procestechnieken.html
 title: Chemische procestechnieken
-tags: 
+tags:
     - techniek-en-wetenschap
 scholen:
     - stella_marisinstituut_merksem
     - pito_stabroek
+    - don_bosco_technisch_instituut_hoboken
 summary: Als procesoperator ben je van onschatbare waarde voor de goede gang van zaken in de fabriek. Vanuit de controlekamer houd je toezicht op de chemische processen die meestal volautomatisch gestuurd worden. Je gaat na wanneer er iets fout loopt, grijpt adequaat in, voert controlerondes uit, neemt monsters voor analyse in het labo en begeleidt de mensen die onderhoudswerkzaamheden uitvoeren.
 ---
 

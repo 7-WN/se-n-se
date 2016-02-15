@@ -4,7 +4,6 @@ title: Toegepaste autotechnieken
 tags:
     - techniek-en-wetenschap
 scholen:
-    - technisch_instituut_sint-paulus
     - technische_scholen_mechelen
 summary: De technische evolutie in de autosector gaat snel en de vraag naar hooggeschoolde technici is groot. Je specialiseren en net die extra vakkennis in huis halen is beslist een goede zaak. De auto industrie heeft altijd werk voor jonge werknemers die de technologie op de voet volgen.
 ---

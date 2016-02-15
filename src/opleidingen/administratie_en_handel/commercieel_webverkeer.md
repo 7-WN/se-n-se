@@ -1,9 +1,9 @@
 ---
 url: opleidingen/administratie_en_handel/commercieel_webverkeer.html
-title: Commercieel Webverkeer
-tags: 
+title: Webontwikkeling &amp; Netwerkbeheer (voorheen ‘Commercieel Webverkeer’)
+tags:
 	- administratie-en-handel
-scholen: 
+scholen:
 	- scheppersinstituut_antwerpen
 summary: Bestaan er bedrijven of organisaties die nooit een beroep doen op ICT-specialisten? Het is een overbodige vraag. De bedrijfswereld kan niet zonder hen en vraagt dan ook goede en praktisch opgeleide medewerkers die vertrouwd zijn met de praktische toepassingen en nieuwe ontwikkelingen in de informatie-en communicatietechnologie.
 ---
@@ -21,6 +21,6 @@ Je maakt tijdens je opleiding kennis met de 4 domeinen van commercieel internetv
 
 ## Je toekomstige Beroep:
 
-* Helpdeskmedewerker ICT
-* Software ontwikkelaar
 * Webontwikkelaar
+* Netwerkbeheerder
+* Helpdeskmedewerker ICT

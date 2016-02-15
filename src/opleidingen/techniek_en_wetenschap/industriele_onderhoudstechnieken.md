@@ -4,7 +4,7 @@ title: Industriële onderhoudstechnieken
 tags:
     - techniek-en-wetenschap
 scholen:
-    - don_bosco_technisch_instituut_hoboken
+    - technische_scholen_mechelen
     - pts
 summary: Goede onderhoudstechnici zijn in elk bedrijf onmisbaar en worden als vaklui enorm gewaardeerd. Waarom zou je niet overwegen om je te specialiseren in veel gevraagde onderhoudsdomeinen zoals montage, demontage, pneumatica, hydraulica, elektriciteit, elektronica, automatisering of robotica? Waar je ook terecht komt, geen enkele job zal je meer afwisseling en uitdaging kunnen bieden.
 ---

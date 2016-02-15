@@ -4,7 +4,6 @@ title: Regeltechnieken
 tags:
     - techniek-en-wetenschap
 scholen:
-    - technisch_instituut_sint-paulus
     - gitok_bovenbouw_kalmthout
 summary: Je wilt nog een bijkomende opleiding volgen (vooral praktisch en gericht op de arbeidswereld), en hoger onderwijs spreekt je (nog) niet aan. Je kwam al in contact met enkele basisprincipes van regeltechniek en je wilt je inzicht in geautomatiseerde regelingen en processen verhogen. In de toekomst wil je zelfstandig regeltechnische probleemsituaties oplossen en/of voorkomen.
 ---
