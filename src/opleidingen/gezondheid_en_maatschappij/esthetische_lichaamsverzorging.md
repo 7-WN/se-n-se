@@ -5,8 +5,7 @@ tags:
     - gezondheid-en-maatschappij
 scholen:
     - heilig_graf_mens_en_welzijnswetenschappen
-    - kta_kapellen
-    - sint-elisabeth-instituut_merksem
+    - gotak
 summary: Waar kan een mens zich beter ontspannen en volledig tot rust komen na een hectische dag dan in het wellness centrum? Vooral als hij onder handen genomen kan worden door een zelfbewuste schoonheidsspecialiste die net dat tikkeltje meer in huis heeft dankzij de opleiding Esthetische lichaamsverzorging.
 ---
 

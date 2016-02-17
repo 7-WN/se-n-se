@@ -8,8 +8,8 @@ scholen:
     - hivset_turnhout
     - koninklijk_technisch_atheneum_brasschaat
     - instituut_sint_maria
-    - koninklijk_atheneum_antwerpen
-    - paramedisch_instituut_mechelen
+    - babotaniek
+    - sint-norbertusinstituut_duffel
 summary: Zorgen voor mensen die extra begeleiding nodig hebben, het is niet iedereen gegeven. Een hart hebben voor mensen, een luisterend oor kunnen bieden en flexibel inspelen op onverwachte situaties zijn slechts enkele noodzakelijke vaardigheden en attitudes. Heb jij dat talent voor mensen en wil je graag aan de slag in de zorgsector, dan ligt jouw toekomst misschien wel in Leefgroepenwerking.
 ---
 

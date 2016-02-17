@@ -12,10 +12,10 @@ summary: Wie 5 dagen per week in een internaat verblijft, krijgt er een tweede t
 
 Voel jij je aangesproken, dan ben je beslist:
 
-*Geïnteresseerd in pedagogoie en omgang met jongeren
-*Sociaalvaardig, communicatief, met een groot inlevingsvermogen
-*Creatief en expressief
-*Een teamspeler met zin voor verantwoordelijkheid
+* Geïnteresseerd in pedagogoie en omgang met jongeren
+* Sociaalvaardig, communicatief, met een groot inlevingsvermogen
+* Creatief en expressief
+* Een teamspeler met zin voor verantwoordelijkheid
 
 ## Hoe zit de opleiding in elkaar?
 

@@ -4,7 +4,7 @@ title: "Sportclub- en fitnessbegeleider"
 tags:
     - gezondheid-en-maatschappij
 scholen:
-    - leonardo_lyceum
+    - stedelijk_lyceum_linkeroever
 summary: "We houden ervan onze grenzen te verleggen en we krijgen steeds meer vrije tijd. De sportieve sector speelt daar handig op in en het aanbod aan sportactiviteiten breidt zienderogen uit. Fitnesscentra, sportdiensten, speelpleinen en evenementenbureaus hebben voortdurend nieuwe medewerkers nodig om mensen individueel of in groep te begeleiden. Kortom, de sector snakt naar jonge, dynamische mensen die een degelijke opleiding hebben gekregen, maar vooral… van actie houden."
 ---
 
