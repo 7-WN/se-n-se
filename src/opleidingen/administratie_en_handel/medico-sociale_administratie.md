@@ -22,4 +22,4 @@ Je krijgt een zeer praktische en geïntegreerde opleiding over alle aspecten van
 
 ## Je toekomstige Beroep:
 
-* Medische secretaresse
+* Medisch secretaresse

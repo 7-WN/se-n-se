@@ -2,16 +2,16 @@
 url: opleidingen/administratie_en_handel/tandartsassistentie.html
 title: Tandartsassistentie
 tags:
-	- administratie-en-handel
+    - administratie-en-handel
 scholen:
     - hivset_turnhout
-    - paramedisch_instituut_mechelen
+    - babotaniek
+    - sal
     - stella_marisinstituut_merksem
 summary: Met de groeiende vraag naar tandheelkundige verzorging en het dalend aantal tandartsen in ons land is een gekwalificeerde tandartsassistent geen overbodige luxe in de tandartspraktijk. Integendeel, de tandartsassistent kan de tandarts bijstaan bij de voorbereiding en uitvoering van de behandeling en ondersteunt hem zowel op administratief, informatief als logistiek niveau.
 ---
 
 ## Iets voor jou?
-
 Voel jij je aangesproken, dan ben je beslist:
 
 * Geboeid door gezondheidswetenschappen

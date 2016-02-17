@@ -1,23 +1,25 @@
 ---
 url: opleidingen/administratie_en_handel/commercieel_webverkeer.html
-title: Webontwikkeling &amp; Netwerkbeheer (voorheen ‘Commercieel Webverkeer’)
+title: Webontwikkeling en Netwerkbeheer (Commercieel Webverkeer)
 tags:
 	- administratie-en-handel
 scholen:
 	- scheppersinstituut_antwerpen
-summary: Bestaan er bedrijven of organisaties die nooit een beroep doen op ICT-specialisten? Het is een overbodige vraag. De bedrijfswereld kan niet zonder hen en vraagt dan ook goede en praktisch opgeleide medewerkers die vertrouwd zijn met de praktische toepassingen en nieuwe ontwikkelingen in de informatie-en communicatietechnologie.
+summary: De moderne bedrijfswereld kan niet zonder ICT en dus ook niet zonder ICT-specialisten. Voor goede ICT-medewerkers zal er altijd werk zijn. Bij ons maak je uitgebreid kennis met de belangrijkste aspecten van de informatietechnologie, zodat jij helemaal klaar bent om een carrière als ICT-specialist uit te bouwen of om door te stromen naar een informaticarichting in het hoger onderwijs.
 ---
 ## Iets voor jou?
 
 Voel jij je aangesproken, dan ben je beslist:
 
-* Geboeid door ICT
-* Commercieel ingesteld
-* Communicatief en hulpvaardig
+*	Geboeid door ICT en de onlinewereld
+*	Communicatief en hulpvaardig
+*	Commercieel ingesteld
 
 ## Hoe zit de opleiding in elkaar?
 
-Je maakt tijdens je opleiding kennis met de 4 domeinen van commercieel internetverkeer: infrastructuur, toepassingen, bemiddeling en handel. Je onderzoekt en evalueert de nieuwe e-economie, leert hoe een helpdesk efficiënt werkt, krijgt les over verschillende programmeertechnieken en –talen en bestudeert professionele pakketten voor elektronische publicatie. Je verneemt alles over functioneel webdesign, grafische vormgeving, multimediatechnieken, ergonomie, vakjargon en een frisse, vlotte en commercieel getinte schrijfstijl. Om te bewijzen dat je de praktijk onder de knie hebt, draag je samen met je medestudenten de verantwoordelijkheid voor het netwerk van de school. Je installeert en beheert de software en helpt klanten bij het gebruik en onderhoud van websteks en computers. Als apart project ontwikkel je een dynamisch gestuurde website.
+De opleiding is erg praktijkgericht. Zo leer je hands-on hoe je het computernetwerk van een KMO moet opzetten en onderhouden. Je leert alles om aantrekkelijke en functionele websites te ontwikkelen. Je leidt online marketingcampagnes. Je maakt grafische ontwerpen en je werkt met de meest gebruikte grafische software. In het vak helpdesk word je klaargestoomd om aan de slag te gaan als ICT-specialist op een helpdesk.
+
+Je beheert het netwerk van de school en verzorgt de helpdesk voor het personeel; je ontwikkelt verschillende websites en je voert promotie op sociale media. Natuurlijk ga je ook op stage bij een ICT-bedrijf. Via eigen projecten krijg je bovendien de kans om de vaardigheden binnen je interessegebied nog te verdiepen.
 
 ## Je toekomstige Beroep:
 
