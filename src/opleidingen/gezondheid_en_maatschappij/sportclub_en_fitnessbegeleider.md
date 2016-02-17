@@ -24,7 +24,7 @@ In samenwerking met de Vlaamse Trainersschool krijg je een doorgedreven en geric
 * Fitnessbegeleider in samenwerking met VTS
 * Bedrijfsbeheer
 
-## Je toekomstige Beroep:
+## Je toekomstige beroep:
 
 * Personal trainer
 * Fitnessbegeleider
