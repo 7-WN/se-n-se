@@ -150,7 +150,7 @@ footer a {
     background-color:#FFF;
     color:#B1B2B5;
 }
-#se-n-selink:hover {
+#se-n-selink:hover, #aanvraaglink:hover {
     background-color:rgb(139, 131, 134);
     color:#FFF;
 }
