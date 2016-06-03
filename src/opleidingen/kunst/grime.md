@@ -2,9 +2,10 @@
 url: opleidingen/kunst/grime.html
 title: Grime
 tags:
-	- kunst
+    - kunst 
 scholen:
     - so_voor_schoonheidszorgen
+    - stedelijk_lyceum_olympiade
 summary: Achter de schermen werken van tv, theater, een modedefilé of een opera … is jouw grote droom. Ben je creatief en wil je als visagiste aan de slag, dan ben jij de geknipte persoon om een Se-n-Se Grime te volgen en je creativiteit ten dienste te stellen van acteurs, regisseurs, theatermakers, modeontwerpers en fotografen.
 ---
 
