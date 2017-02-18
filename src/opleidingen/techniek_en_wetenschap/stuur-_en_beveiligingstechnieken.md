@@ -5,7 +5,7 @@ tags:
     - techniek-en-wetenschap
 scholen:
     - vtst
-summary: Door het volgen van dit zevende jaar word je specialist in twee domeinen. Enerzijds zoek je verder alle mogelijkheden uit om met behulp van PLC’s processen te automatiseren. Anderzijds zorgen we voor een stevige basis waardoor je later de installatie en het onderhoud van alarminstallaties kan uitvoeren. Dat je door het volgen van deze opleiding je toekomstmogelijkheden op de arbeidsmarkt dus sterk verhoogt, spreekt voor zich.
+summary: Door het volgen van dit zevende jaar word je specialist in twee domeinen. Enerzijds bestudeer je alle mogelijkheden van PLC’s, anderzijds zorgen we voor een stevige basis beveiligingstechnieken. Door het volgen van deze opleiding verhoog je sterk je toekomstmogelijkheden op de arbeidsmarkt.
 ---
 
 ## Iets voor jou?
@@ -18,21 +18,27 @@ Voel jij je aangesproken, dan ben je beslist:
 
 ## Hoe zit de opleiding in elkaar?
 
-Binnen het domein van stuurtechnieken bestudeer je de werking van de noodzakelijke stuurtechnische onderdelen en breng je ze samen met als doel: een werkende productielijn of -proces. Speciale motoren, sensoren, communicatiedisplays ... en vooral diverse types van PLC’s worden uitvoerig bestudeerd, geprogrammeerd en praktisch aangesloten. 
-Binnen het domein van beveiligingstechnieken zal je tijdens theoretische en praktische lessen alarm- en beveiligingssystemen installeren, onderhouden en herstellen. Een uitgebreid gamma van sensoren, alarmcentrales, brandcentrales, sirenes, klavieren, camera’s, ..., wordt besproken en aangesloten . Na deze opleiding kun je, naast het getuigschrift, ook het ‘Certificaat van kwalificatie en opleiding inzake installatie en onderhoud van alarmsystemen en -centrales’ behalen. Dit certificaat geeft je de wettelijke basis om aan de slag te gaan als installateur van alarmsystemen in een beveiligingsonderneming.
+Je bestudeert de componenten die gebruikt worden bij camerabewaking, brandbeveiliging en inbraakbeveiliging en je bouwt er praktische opstellingen mee. Je kan ook het ‘Certificaat van kwalificatie en opleiding inzake installatie en onderhoud van alarmsystemen en -centrales’ behalen. Het geeft je de wettelijke basis om aan het werk te gaan als installateur van alarmsystemen in een beveiligingsonderneming.
+
+Je experimenteert met frequentieregelaars, servosystemen, stappenmotoren en softstarters. Je programmeert diverse types van PLC’s en zoekt oplossingen om industriële processen te automatiseren. Hierbij maak je ondermeer gebruik van HMI-panelen en bussystemen.
+Tijdens de lessen bedrijfsbeheer leer je hoe je succesvol een eigen zaak opricht en leidt. Slaag je voor dit vak, dan krijg je het ‘Getuigschrift bedrijfsbeheer’ en kan je als zelfstandige aan de slag.
 
 ## Zijn er specifieke toelatingsvoorwaarden?
 
-Je kan het zevende jaar TSO Stuur- en beveiligingstechnieken volgen als een je diploma secundair onderwijs behaald hebt in één van de volgende studierichtingen:
+Je kan dit zevende specialisatiejaar volgen met een diploma secundair onderwijs uit de volgende studierichtingen:
 
-* elektrische installatietechnieken TSO
-* elektromechanica TSO
-* elektriciteit-elektronica TSO
-* industriële wetenschappen TSO
-* industriële elektriciteit 7de jaar BSO
+*	elektrische installatietechnieken TSO
+*	elektromechanica TSO
+*	elektriciteit-elektronica TSO
+*	industriële wetenschappen TSO
+*	industriële elektriciteit 7de jaar BSO
+
 
 ## Je toekomstige beroep:
 
-* technicus automatiseringssystemen
-* installateur algemene elektriciteit en elektrotechnische sturingen
-* installateur alarm- en beveiligingssystemen
+Het zevende jaar Stuur- en beveiligingstechnieken richt zich sterk op de arbeidsmarkt. Hierdoor kan je, na dit specialisatiejaar, meteen werken als:
+
+*	installateur alarm- en beveiligingssystemen
+*	installateur algemene elektriciteit en elektrotechnische uitrustingen
+*	technicus automatiseringssystemen
+*	technicus elektronische netwerken en communicatiekanalen
