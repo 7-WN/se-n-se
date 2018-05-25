@@ -24,22 +24,21 @@ layout: false
     <section id="foto-techniek-en-wetenschap" class="foto"></section>
     {{> techniek_en_wetenschap}}
     <footer class="container-fluid">
-       <p>Designed by <a href="http://www.commercieelwebverkeer.be">Commercieel webverkeer en netwerkbeheer</a> © 2014<br />
-       <a href="mailto:l.derichter@scheppersinstituut.be?subject=Feedback over se-n-se.eu">Contacteer Webmaster</a></p>
+       <p>Website ontworpen en ontwikkeld door <a href="http://webontwikkeling-netwerkbeheer.be">Webontwikkeling en Netwerkbeheer</a> - <a href="public/disclaimer.pdf">disclaimer</a> - <a href="public/privacybeleid.pdf">privacybeleid</a> - <a href="public/cookiebeleid.pdf">cookiebeleid</a>
     </footer>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     <script>
-        /** 
+        /**
         *  Set min-height for each domein to the viewport-height and reset it on window-resize
         */
         var setDomeinHeight = function(){
-            var windowH = $(window).height() + 'px';                           
+            var windowH = $(window).height() + 'px';
             $('.domein').each(function(){
                 $(this).css({'min-height': windowH});
             })
         }(); // immediately invoke this function
-        
+
         // re-invoke on window resize
         $(window).resize(function(event) {
             setDomeinHeight();
