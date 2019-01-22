@@ -1,11 +1,10 @@
 ---
-url: opleidingen/administratie_en_handel/juridisch-secretariaat.html
-title: Juridisch secretariaat / Legal and insurance management
+url: opleidingen/administratie_en_handel/administratie-vrije-beroepen.html
+title: Administratie Vrije Beroepen – Juridisch Secretariaat
 tags:
-    - administratie-en-handel
+  - administratie-en-handel
 scholen:
-    - sint_lodewijk_antwerpen
-    - sint_ursula_lier
+  - sint_lodewijk_antwerpen
 summary: Of je nu advocaat, notaris, gerechtsdeurwaarder of verzekeringsagent bent, zonder goed administratief personeel sta je nergens. Enkel met een vlotte organisatie en een vlekkeloze adminstratie kan je je kantoor draaiende houden. De rol die een administratief bediende daarin speelt, kan je maar beter niet onderschatten.
 ---
 
@@ -13,10 +12,10 @@ summary: Of je nu advocaat, notaris, gerechtsdeurwaarder of verzekeringsagent be
 
 Voel jij je aangesproken, dan heb je beslist interesse in:
 
-* de juridische sector
-* het verzekeringswezen
-* een vlotte en efficiënte afhandeling van administratie
-* het onthaal van cliënten
+- de juridische sector
+- het verzekeringswezen
+- een vlotte en efficiënte afhandeling van administratie
+- het onthaal van cliënten
 
 ## Hoe zit de opleiding in elkaar?
 
@@ -26,7 +25,7 @@ Een praktische en goede ICT-kennis is in elke administratieve job van het groots
 
 ## Je toekomstige Beroep:
 
-* administratief bediende bij een advocaat
-* administratief bediende bij een notaris
-* administratief bediende bij een gerechtsdeurwaarder
-* administratief bediende bij een verzekeringskantoor
+- administratief bediende bij een advocaat
+- administratief bediende bij een notaris
+- administratief bediende bij een gerechtsdeurwaarder
+- administratief bediende bij een verzekeringskantoor
