@@ -2,17 +2,18 @@
 url: opleidingen/techniek_en_wetenschap/industriele_koeltechnieken.html
 title: Industriële koeltechnieken
 tags:
-    - techniek-en-wetenschap
+  - techniek-en-wetenschap
 scholen:
-summary: In de nooit aflatende evolutie in deze branche ben je er van bewust dat levenslang leren geen ijdel begrip is. Je bent gedurende je studies en later ook tijdens je carrière, bereid je kennis en vaardigheden te verdiepen en verbreden. Bezit je als toekomstige koeltechnicus deze instelling, dan sta je al met één been in de bedrijfswereld.
+  - gti_mortsel
+summary: Wil jij je verdiepen in de immense wereld van de koeltechniek? Een wereld met ontelbare toepassingen, van de bakker om de hoek tot industriële toepassingen. In de richting se n se industriële koeltechniek geven we je een mooie kennis mee om je hierin te lanceren.
 ---
 
 ## Iets voor jou?
 
 Voel jij je aangesproken, dan ben je beslist:
 
-* Geïnteresseerd in het industriële aspect v/d koeltechniek
-* Praktisch en technisch aangelegd
+- Geïnteresseerd in het industriële aspect van de koeltechniek
+- Praktisch en technisch aangelegd
 
 ## Hoe zit de opleiding in elkaar?
 
@@ -20,7 +21,7 @@ Je verwerft tijdens de opleiding inzicht in de opbouw en de werking van industri
 
 ## Je toekomstige Beroep:
 
-* Installateur van koel- en verwarmingssystemen
-* Beheerder van energiesystemen
-* Technisch bediende in openbare diensten
-* Vertegenwoordiger koeltechnisch materiaal
+- Installateur van koel- en verwarmingssystemen
+- Beheerder van energiesystemen
+- Technisch bediende in openbare diensten
+- Vertegenwoordiger koeltechnisch materiaal
