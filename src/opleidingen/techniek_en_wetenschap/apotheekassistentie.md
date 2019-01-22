@@ -2,9 +2,11 @@
 url: opleidingen/techniek_en_wetenschap/apotheekassistentie.html
 title: Apotheekassistentie
 tags:
-    - techniek-en-wetenschap
+  - techniek-en-wetenschap
 scholen:
-    - babotaniek
+  - babotaniek
+  - hivset_turnhout
+  - sal
 summary: Spreekt het je aan om de rechterhand te worden van de apotheker bij jou in de buurt of in het ziekenhuis om geneesmiddelen te bereiden, af te leveren en mensen de nodige raad te geven, dan moet je beslist overwegen om een opleiding tot apotheekassistent te volgen. Het levert je de wettelijk erkende beroepstitel van farmaceutisch-technisch assistent op.
 ---
 
@@ -12,11 +14,11 @@ summary: Spreekt het je aan om de rechterhand te worden van de apotheker bij jou
 
 Voel jij je aangesproken, dan heb je:
 
-* Verantwoordelijkheidsgevoel
-* Zin voor orde, stiptheid en hygiëne
-* Een sterke interesse voor natuurwetenschappen
-* Belangstelling voor de medische wereld
-* Een goede omgang met mensen
+- Verantwoordelijkheidsgevoel
+- Zin voor orde, stiptheid en hygiëne
+- Een sterke interesse voor natuurwetenschappen
+- Belangstelling voor de medische wereld
+- Een goede omgang met mensen
 
 ## Hoe zit de opleiding in elkaar?
 
@@ -28,7 +30,7 @@ Je bent best in het bezit van een diploma secundair onderwijs. Zonder dat diplom
 
 ## Je toekomstige Beroep:
 
-* Apotheekassisten bij een apotheek
-* Apotheekassistent in een ziekenhuisapotheek
-* Medewerker in de farmaceutische industrie
-* Medewerker in de cosmetische industrie
+- Apotheekassisten bij een apotheek
+- Apotheekassistent in een ziekenhuisapotheek
+- Medewerker in de farmaceutische industrie
+- Medewerker in de cosmetische industrie
