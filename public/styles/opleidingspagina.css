@@ -3,87 +3,91 @@
 /**
  *  1. Base Rules
  */
- body {
-    color: #111;
-    font-family:"Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial, "Lucida Grande", sans-serif;
+body {
+  color: #111;
+  font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Tahoma, Geneva, Arial,
+    "Lucida Grande", sans-serif;
 }
 .inleiding {
-    font-weight: 600;
-    font-style: italic;
-    font-size: 16px;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 16px;
 }
 /**
  *  2. Layout Rules
  */
- header {
-    margin: 0 auto 2em auto;
-    padding: 1em;
-    text-align: right;
+header {
+  margin: 0 auto 2em auto;
+  padding: 1em;
+  text-align: right;
 }
 .back-button {
-    float: left !important;
-    color: white;
+  float: left !important;
+  color: white;
 }
 .back-button:hover {
-    color: silver;
-    text-decoration: none;
+  color: silver;
+  text-decoration: none;
 }
 .school {
-    float: left;
+  float: left;
 }
-/** 
+/**
  *  3. Modules
  */
 
 /* opleidingsfoto */
 .opleidingsfoto {
-    max-width: 100%;
-    margin-top: 2em;
+  max-width: 100%;
+  margin-top: 2em;
 }
 /* scholen */
- .u-icon {
-    display: block;
-    margin: 1em 0 0.5em 0;
-    max-width: 33.333333333%;
+.u-icon {
+  display: block;
+  margin: 1em 0 0.5em 0;
+  max-width: 33.333333333%;
 }
 .p-name {
-    font-weight: bold;
+  font-weight: bold;
 }
 /**
 *  4. Theme Rules
 */
 
 /* Administratie en handel opleidingspagina's */
- .administratie-en-handel header {
-    background-color: #87C800;
+.administratie-en-handel header {
+  background-color: #87c800;
 }
 /* Gezondheid en maatschappij opleidingspagina's */
- .gezondheid-en-maatschappij header {
-    background-color: #00AFC8;
+.gezondheid-en-maatschappij header {
+  background-color: #00afc8;
 }
 /* Kunst opleidingspagina's */
- .kunst header {
-    background-color: #FFA600;
+.kunst header {
+  background-color: #ffa600;
 }
 /* Techniek en wetenschap opleidingspagina's */
- .techniek-en-wetenschap header {
-    background-color: #CE003E;
+.techniek-en-wetenschap {
+  background-color: hsl(342, 80%, 90%);
+}
+.techniek-en-wetenschap header {
+  background-color: #ce003e;
 }
 /**
  *  5. Media Queries
  */
 
 /* Smaller */
- @media (max-width: 992px) {
-    .school {
-        /* 1 column */
-        clear: left;
-    }
+@media (max-width: 992px) {
+  .school {
+    /* 1 column */
+    clear: left;
+  }
 }
 /* Larger */
 @media (min-width: 993px) {
-    /* 2 columns */
-    .school:nth-child(2n){
-        clear: left;
-    }
+  /* 2 columns */
+  .school:nth-child(2n) {
+    clear: left;
+  }
 }
