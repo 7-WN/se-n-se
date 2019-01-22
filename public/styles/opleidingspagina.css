@@ -55,6 +55,9 @@ header {
 */
 
 /* Administratie en handel opleidingspagina's */
+.administratie-en-handel {
+  background-color: hsl(80, 60%, 90%);
+}
 .administratie-en-handel header {
   background-color: #87c800;
 }
