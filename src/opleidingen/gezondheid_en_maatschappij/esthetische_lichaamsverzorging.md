@@ -2,10 +2,10 @@
 url: opleidingen/gezondheid_en_maatschappij/esthetische_lichaamsverzorging.html
 title: Esthetische lichaamsverzorging
 tags:
-    - gezondheid-en-maatschappij
+  - gezondheid-en-maatschappij
 scholen:
-    - heilig_graf_mens_en_welzijnswetenschappen
-    - gotak
+  - heilig_graf_mens_en_welzijnswetenschappen
+  - sint-lutgardis-mol
 summary: Waar kan een mens zich beter ontspannen en volledig tot rust komen na een hectische dag dan in het wellness centrum? Vooral als hij onder handen genomen kan worden door een zelfbewuste schoonheidsspecialiste die net dat tikkeltje meer in huis heeft dankzij de opleiding Esthetische lichaamsverzorging.
 ---
 
@@ -13,9 +13,9 @@ summary: Waar kan een mens zich beter ontspannen en volledig tot rust komen na e
 
 Voel jij je aangesproken, dan wil jij:
 
-* De nieuwste technieken in gelaatsverzorging en massage beheersen
-* Je specialiseren in visagie en kleurenanalyse
-* Extra kennis opdoen om als zelfstandig schoonheidsspecialist het verschil te maken
+- De nieuwste technieken in gelaatsverzorging en massage beheersen
+- Je specialiseren in visagie en kleurenanalyse
+- Extra kennis opdoen om als zelfstandig schoonheidsspecialist het verschil te maken
 
 ## Hoe zit de opleiding in elkaar?
 
@@ -23,9 +23,9 @@ Je volgt een praktijkgerichte opleiding en doet zeer uiteenlopende stages bij be
 
 ## Je toekomstige Beroep:
 
-* Zelfstandig schoonheidsspecialiste
-* Filiaalhouder in de parfumeriesector
-* Werknemer in een schoonheidsinstituut of wellnesscentrum
-* Vertegenwoordiger
-* Pedicure-podoloog
-* Grimeur
+- Zelfstandig schoonheidsspecialiste
+- Filiaalhouder in de parfumeriesector
+- Werknemer in een schoonheidsinstituut of wellnesscentrum
+- Vertegenwoordiger
+- Pedicure-podoloog
+- Grimeur
