@@ -62,6 +62,9 @@ header {
   background-color: #87c800;
 }
 /* Gezondheid en maatschappij opleidingspagina's */
+.gezondheid-en-maatschappij {
+  background-color: hsl(188, 60%, 90%);
+}
 .gezondheid-en-maatschappij header {
   background-color: #00afc8;
 }
@@ -71,7 +74,7 @@ header {
 }
 /* Techniek en wetenschap opleidingspagina's */
 .techniek-en-wetenschap {
-  background-color: hsl(342, 80%, 90%);
+  background-color: hsl(342, 60%, 90%);
 }
 .techniek-en-wetenschap header {
   background-color: #ce003e;
