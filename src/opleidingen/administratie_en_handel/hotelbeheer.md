@@ -2,28 +2,29 @@
 url: opleidingen/administratie_en_handel/hotelbeheer.html
 title: Hotelbeheer
 tags:
-    - administratie-en-handel
+  - administratie-en-handel
 scholen:
-     - stella_marisinstituut_merksem
-summary: Ben je op zoek naar een boeiende functie in een internationale omgeving en hou je ervan om het je gasten naar de zin te maken? Met een opleiding Hotelbeheer kan je het schoppen tot polyvalent hotelmedewerker op afdelingen zoals sales & marketing, public relations, reservations, front officereception,housekeeping, food & beverage management en conference & banqueting.
+  - stella_marisinstituut_merksem
+summary: Het is algemeen geweten — een hotel maakt of kraakt je verblijf, of het nu voor een zakenreis of een vakantie is.We dromen allemaal van dat ideale hotel, een en al gastvrijheid, gezelligheid en liefst nog met lekker eten ook. Ben jij de manager in spe die deze uitdaging wil aangaan? Dan hebben we nog wat extra troeven — het hotelwezen is er een van alle tijden en van overal.Werkgelegenheid is gegarandeerd! Bovendien werk je in een internationale omgeving — je krijgt de wereld binnen handbereik.
 ---
 
-## Iets voor jou?
+## Iets voor jou? Zeker en vast!
 
-Voel jij je aangesproken, dan ben je:
-
-* Klantvriendelijk en sociaalvaardig
-* Commercieel ingesteld
-* Een vlotte prater met een praktische talenknobbel
+- Als je ervan houdt om een ideale gastheer of gastvrouw te zijn;
+- Als je sterk bent in sociale omgang met mensen;
+- Als je een uitdaging zoekt in een internationale wereld
+- Als vreemde talen voor jou een plezier zijn.
 
 ## Hoe zit de opleiding in elkaar?
 
-Hotelbeheer staat in het teken van dienstverlening, verkoop van gastvrijheid, vriendelijke omgang met gasten, commerciële bedrijfsvoering en communicatie. Je kan de opleiding volgen in 2 modules met telkens een lange stageperiode en een examenweek. Uiteraard kan je op stage in het buitenland en leg je meteen je eerste internationale contacten. In de eerste module maak je kennis met Food & Beverage management, Conferences & Banqueting, Sales, Marketing en Public Relations. Je krijgt heel wat technische bagage mee, besteedt veel aandacht aan voedselveiligheid en traint je communicatieve vaardigheden in verschillende talen. In de eerste periode heb je een blokstage van 8 weken. In de tweede module ligt de focus op Reservations, Front Office, Reception en Housekeeping. Je sluit de periode af met een blokstage van 10 weken.
+Deze opleiding wordt aangeboden in twee modules. Voor elke module werken we samen met de AP hogeschool. In module 1 maak je uitgebreid kennis met Food & Beverage management – Conferences & Banqueting – Sales, Marketing en Public Relations. De tweede module focust op werkzaamheden van het room division department. Het spreekt voor zich dat in deze opleiding veel aandacht gaat ook naar talen en communicatieve vaardigheden. Die kan je extra inoefenen op een buitenslandse stage van resp. 6 en 8 weken.
 
-## Je toekomstige Beroep:
+## Instapvoorwaarden
 
-* Onthaalbediende in de hotelsector
-* Administratief bediende in de hotelsector
-* Medewerker op een food & beverage departement
-* Medewerker op een marketingdepartement
-* Middel managementfunctie in een hotel
+Een diploma secundair onderwijs en een stevige portie interesse in de wereld van het hotelwezen.
+
+## Je toekomst?
+
+Hotelbeheer bereidt je voor op een administratieve functie of onthaalfunctie in de hotelwereld in binnen- of buitenland en geeft je kansen om door te groeien tot een leidinggevende functie bij het middenmanagement. Ook in Food & Beverage departementen en marketingdepartementen van andere voedingsbedrijven kan je aan de slag.
+
+Hotelbeheer is ook een ideale voorbereiding voor bacheloropleidingen zoals Hotelmanagement en Event- en projectmanagement.
