@@ -1,6 +1,6 @@
 ---
 url: opleidingen/techniek_en_wetenschap/toegepaste_autotechnieken.html
-title: Toegepaste autotechnieken
+title: Toegepaste Autotechnieken
 tags:
   - techniek-en-wetenschap
 scholen:

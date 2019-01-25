@@ -1,6 +1,6 @@
 ---
 url: opleidingen/gezondheid_en_maatschappij/esthetische_lichaamsverzorging.html
-title: Esthetische lichaamsverzorging
+title: Esthetische Lichaamsverzorging
 tags:
   - gezondheid-en-maatschappij
 scholen:

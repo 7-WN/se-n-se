@@ -1,6 +1,6 @@
 ---
 url: opleidingen/administratie_en_handel/medico-sociale_administratie.html
-title: Medico-sociale administratie
+title: Medico-Sociale Administratie
 tags:
   - administratie-en-handel
 scholen:

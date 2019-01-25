@@ -1,6 +1,6 @@
 ---
 url: opleidingen/techniek_en_wetenschap/industriele_koeltechnieken.html
-title: Industriële koeltechnieken
+title: Industriële Koeltechnieken
 tags:
   - techniek-en-wetenschap
 scholen:

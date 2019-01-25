@@ -1,6 +1,6 @@
 ---
 url: opleidingen/gezondheid_en_maatschappij/integrale_veiligheid.html
-title: Integrale veiligheid
+title: Integrale Veiligheid
 tags:
   - gezondheid-en-maatschappij
 scholen:

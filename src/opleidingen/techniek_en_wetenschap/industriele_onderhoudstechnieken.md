@@ -1,6 +1,6 @@
 ---
 url: opleidingen/techniek_en_wetenschap/industriele_onderhoudstechnieken.html
-title: Industriële onderhoudstechnieken
+title: Industriële Onderhoudstechnieken
 tags:
   - techniek-en-wetenschap
 scholen:

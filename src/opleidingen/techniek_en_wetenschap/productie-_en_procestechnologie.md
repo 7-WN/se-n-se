@@ -1,10 +1,10 @@
 ---
 url: opleidingen/techniek_en_wetenschap/productie-_en_procestechnologie.html
-title: Productie- en procestechnologie
+title: Productie- en Procestechnologie
 tags:
-    - techniek-en-wetenschap
+  - techniek-en-wetenschap
 scholen:
-    - stedelijk_lyceum_meir
+  - stedelijk_lyceum_meir
 summary: Door de verregaande automatisering in de industrie zijn er meer machines dan mensen aanwezig in een productiebedrijf. Je ziet steeds minder mensen zwoegen en zweten, maar daar staat tegenover dat diegenen die er wel rondlopen een complex en uitgebreid takenpakket hebben. Spreekt het tot jouw verbeelding om één van de mensen te zijn die een volledige productielijn onder controle moeten houden?
 ---
 
@@ -12,8 +12,8 @@ summary: Door de verregaande automatisering in de industrie zijn er meer machine
 
 Voel jij je aangesproken, dan ben je beslist:
 
-* In de ban van technologie
-* Geboeid door industrie
+- In de ban van technologie
+- Geboeid door industrie
 
 ## Hoe zit de opleiding in elkaar?
 
@@ -25,6 +25,6 @@ De opleiding is praktisch en de lessen worden afgewisseld met heel wat werkplekl
 
 ## Je toekomstige Beroep:
 
-* Productieoperator
-* Procesoperator in de chemie
-* Technisch operator
+- Productieoperator
+- Procesoperator in de chemie
+- Technisch operator

@@ -1,6 +1,6 @@
 ---
 url: opleidingen/kunst/creatie-_en_patroonontwerpen.html
-title: "Creatie- en patroonontwerpen"
+title: "Creatie- en Patroonontwerpen"
 tags:
   - kunst
 scholen:

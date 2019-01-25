@@ -1,12 +1,12 @@
 ---
 url: opleidingen/administratie_en_handel/internationaal_transport_en_goederenverzending.html
-title: Internationaal transport en goederenverzending
+title: Internationaal Transport en Goederenverzending
 tags:
-	- administratie-en-handel
+  - administratie-en-handel
 scholen:
-    - scheppersinstituut_antwerpen
-    - koninklijk_atheneum_antwerpen
-    - koninklijk_technisch_atheneum_brasschaat
+  - scheppersinstituut_antwerpen
+  - koninklijk_atheneum_antwerpen
+  - koninklijk_technisch_atheneum_brasschaat
 summary: In de Antwerpse haven zie je de hele wereld voor je neus passeren. Is de opleiding Internationaal transport en goederenverzending jouw sleutel tot deze boeiende internationale omgeving? Niet alleen expeditiekantoren, rederijen en goederenbehandelaars maar ook handelsfirma’s en productiebedrijven hebben nood aan mensen met kennis over import, export, douane, gevaarlijke goederen, verschepingen en logistiek.
 ---
 
@@ -14,9 +14,9 @@ summary: In de Antwerpse haven zie je de hele wereld voor je neus passeren. Is d
 
 Voel jij je aangesproken, dan ben je beslist:
 
-* Geïnteresseerd in economie en administratie
-* Goed in communicatie en vreemde talen
-* Vlot in de omgang met computers en ICT
+- Geïnteresseerd in economie en administratie
+- Goed in communicatie en vreemde talen
+- Vlot in de omgang met computers en ICT
 
 ## Hoe zit de opleiding in elkaar?
 
@@ -24,11 +24,11 @@ Je raakt wegwijs in de administratieve behandeling van goederen en alle mogelijk
 
 ## Je toekomstige Beroep:
 
-* Bediende expeditie
-* Bediende planning en logistiek
-* Bevrachter
-* Dispatcher goederenvervoer over de weg
-* Douanedeclarant
-* Logistiek verantwoordelijke
-* Magazijnbediende
-* Waterklerk
+- Bediende expeditie
+- Bediende planning en logistiek
+- Bevrachter
+- Dispatcher goederenvervoer over de weg
+- Douanedeclarant
+- Logistiek verantwoordelijke
+- Magazijnbediende
+- Waterklerk

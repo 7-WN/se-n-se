@@ -1,6 +1,6 @@
 ---
 url: opleidingen/kunst/grafische_vormgeving.html
-title: Grafische vormgeving
+title: Grafische Vormgeving
 tags:
   - kunst
 scholen:

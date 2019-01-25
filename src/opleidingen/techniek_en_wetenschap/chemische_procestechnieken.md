@@ -1,6 +1,6 @@
 ---
 url: opleidingen/techniek_en_wetenschap/chemische_procestechnieken.html
-title: Chemische procestechnieken
+title: Chemische Procestechnieken
 tags:
   - techniek-en-wetenschap
 scholen:
