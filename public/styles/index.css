@@ -153,7 +153,8 @@ footer a {
   color: #b1b2b5;
 }
 #se-n-selink:hover,
-#aanvraaglink:hover {
+#aanvraaglink:hover,
+#brochurelink:hover {
   background-color: rgb(139, 131, 134);
   color: #fff;
 }
